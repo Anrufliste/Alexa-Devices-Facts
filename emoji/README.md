@@ -9,7 +9,7 @@ Here I try to keep up to date with the improvement of the APL emoji support as w
 
 * [Smiley & People](Smiley_and_People.md) (x/y)
 * [Animals & Nature](Animals_and_Nature.md) (x/y)
-* Food & Drink (x/y)
+* [Food & Drink](Food_and_Drink.md) (x/y)
 * Activity (x/y)
 * Travel & Places (x/y)
 * Objects (x/y)
