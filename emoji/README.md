@@ -12,7 +12,7 @@ Here I try to keep up to date with the improvement of the APL emoji support as w
 * [Food & Drink](Food_and_Drink.md) (x/y)
 * [Activity](Activity.md) (x/y)
 * [Travel & Places](Travel_and_Places.md) (x/y)
-* Objects (x/y)
+* [Objects](Objects.md) (x/y)
 * Symbols (x/y)
 * Flags (x/y)
 
