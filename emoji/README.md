@@ -14,6 +14,6 @@ Here I try to keep up to date with the improvement of the APL emoji support as w
 * [Travel & Places](Travel_and_Places.md) (x/y)
 * [Objects](Objects.md) (x/y)
 * [Symbols](Symbols.md) (x/y)
-* Flags (x/y)
+* [Flags](Flags.md) (x/y)
 
 Last Update 13 Nov 2020 based on [Emoji Version 13.0](https://emojipedia.org/emoji-13.0/)
