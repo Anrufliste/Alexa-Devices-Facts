@@ -13,7 +13,7 @@ Here I try to keep up to date with the improvement of the APL emoji support as w
 * [Activity](Activity.md) (x/y)
 * [Travel & Places](Travel_and_Places.md) (x/y)
 * [Objects](Objects.md) (x/y)
-* Symbols (x/y)
+* [Symbols](Symbols.md) (x/y)
 * Flags (x/y)
 
 Last Update 13 Nov 2020 based on [Emoji Version 13.0](https://emojipedia.org/emoji-13.0/)
