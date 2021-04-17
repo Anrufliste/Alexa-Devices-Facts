@@ -2,7 +2,7 @@
 
 | EMOJI | supported | English SSML  | German SSML   |
 |:-----:|:---------:|:-------------:|:-------------:|
-|🕴️| ? [📙](https://emojipedia.org/person-in-suit-levitating/)             | |                |
+|🕴️| [✅](screenshots/🕴️.png) [📙](https://emojipedia.org/person-in-suit-levitating/)             | Meditating Businessman | Meditierender Geschäftsmann |
 |🧗| ? [📙](https://emojipedia.org/person-climbing/)             | |                |
 |🧗‍♂️| ? [📙](https://emojipedia.org/man-climbing/)             | |                |
 |🧗‍♀️| ? [📙](https://emojipedia.org/woman-climbing/)             | |                |

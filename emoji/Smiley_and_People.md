@@ -2,11 +2,11 @@
 
 | EMOJI | supported | English SSML  | German SSML   |
 |:-----:|:---------:|:-------------:|:-------------:|
-|😀|[✅](screenshots/😀.png) [📙](https://emojipedia.org/grinning-face/)  | | Lachendes Gesicht              |
-|😃| ✅ [📙](https://emojipedia.org/grinning-face-with-big-eyes/)         | | Lachendes Gesicht              |
-|😄| ✅ [📙](https://emojipedia.org/grinning-face-with-smiling-eyes/)     | | Lachendes Gesicht              |
-|😁| ✅ [📙](https://emojipedia.org/beaming-face-with-smiling-eyes/)      | | Lachendes Gesicht              |
-|😆| ✅ [📙](https://emojipedia.org/grinning-squinting-face/)             | | Lachendes Gesicht              |
+|😀| ✅ [📙](https://emojipedia.org/grinning-face/)  | | Lachendes Gesicht |
+|😃| ✅ [📙](https://emojipedia.org/grinning-face-with-big-eyes/)         | | Lachendes Gesicht |
+|😄| ✅ [📙](https://emojipedia.org/grinning-face-with-smiling-eyes/)     | | Lachendes Gesicht |
+|😁| ✅ [📙](https://emojipedia.org/beaming-face-with-smiling-eyes/)      | | Lachendes Gesicht |
+|😆| ✅ [📙](https://emojipedia.org/grinning-squinting-face/)             | | Lachendes Gesicht |
 |😅| ? [📙](https://emojipedia.org/grinning-face-with-sweat/)             | |                |
 |🤣| ? [📙](https://emojipedia.org/rolling-on-the-floor-laughing/)        | |                |
 |😂| ? [📙](https://emojipedia.org/face-with-tears-of-joy/)               | |                |
