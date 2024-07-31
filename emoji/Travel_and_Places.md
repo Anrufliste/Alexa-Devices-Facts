@@ -1,140 +1,139 @@
 # EMOJI on ALEXA devices with SCREENS - Travel & Places (x/y)
 
-| EMOJI | supported | English SSML  | German SSML   |
-|:-----:|:---------:|:-------------:|:-------------:|
-|🚣| ? [📙](https://emojipedia.org/person-rowing-boat/)             | |                |
-|🗾| ? [📙](https://emojipedia.org/map-of-japan/)             | |                |
-|🏔️| ? [📙](https://emojipedia.org/snow-capped-mountain/)             | |                |
-|⛰️| ? [📙](https://emojipedia.org/mountain/)             | |                |
-|🌋| ? [📙](https://emojipedia.org/volcano/)             | |                |
-|🗻| ? [📙](https://emojipedia.org/mount-fuji/)             | |                |
-|🏕️| ? [📙](https://emojipedia.org/camping/)             | |                |
-|🏖️| ? [📙](https://emojipedia.org/beach-with-umbrella/)             | |                |
-|🏜️| ? [📙](https://emojipedia.org/desert/)             | |                |
-|🏝️| ? [📙](https://emojipedia.org/desert-island/)             | |                |
-|🏞️| ? [📙](https://emojipedia.org/national-park/)             | |                |
-|🏟️| ? [📙](https://emojipedia.org/stadium/)             | |                |
-|🏛️| ? [📙](https://emojipedia.org/classical-building/)             | |                |
-|🏗️| ? [📙](https://emojipedia.org/building-construction/)             | |                |
-|🛖| ? [📙](https://emojipedia.org/hut/)             | |                |
-|🏘️| ? [📙](https://emojipedia.org/houses/)             | |                |
-|🏚️| ? [📙](https://emojipedia.org/derelict-house/)             | |                |
-|🏠| ? [📙](https://emojipedia.org/house/)             | |                |
-|🏡| ? [📙](https://emojipedia.org/house-with-garden/)             | |                |
-|🏢| ? [📙](https://emojipedia.org/office-building/)             | |                |
-|🏣| ? [📙](https://emojipedia.org/japanese-post-office/)             | |                |
-|🏤| ? [📙](https://emojipedia.org/post-office/)             | |                |
-|🏥| ? [📙](https://emojipedia.org/hospital/)             | |                |
-|🏦| ? [📙](https://emojipedia.org/bank/)             | |                |
-|🏨| ? [📙](https://emojipedia.org/hotel/)             | |                |
-|🏩| ? [📙](https://emojipedia.org/love-hotel/)             | |                |
-|🏪| ? [📙](https://emojipedia.org/convenience-store/)             | |                |
-|🏫| ? [📙](https://emojipedia.org/school/)             | |                |
-|🏬| ? [📙](https://emojipedia.org/department-store/)             | |                |
-|🏭| ? [📙](https://emojipedia.org/factory/)             | |                |
-|🏯| ? [📙](https://emojipedia.org/japanese-castle/)             | |                |
-|🏰| ? [📙](https://emojipedia.org/castle/)             | |                |
-|💒| ? [📙](https://emojipedia.org/wedding/)             | |                |
-|🗼| ? [📙](https://emojipedia.org/tokyo-tower/)             | |                |
-|🗽| ? [📙](https://emojipedia.org/statue-of-liberty/)             | |                |
-|⛪| ? [📙](https://emojipedia.org/church/)             | |                |
-|🕌| ? [📙](https://emojipedia.org/mosque/)             | |                |
-|🛕| ? [📙](https://emojipedia.org/hindu-temple/)             | |                |
-|🕍| ? [📙](https://emojipedia.org/synagogue/)             | |                |
-|⛩️| ? [📙](https://emojipedia.org/shinto-shrine/)             | |                |
-|🕋| ? [📙](https://emojipedia.org/kaaba/)             | |                |
-|⛲| ? [📙](https://emojipedia.org/fountain/)             | |                |
-|⛺| ? [📙](https://emojipedia.org/tent/)             | |                |
-|🌁| ? [📙](https://emojipedia.org/foggy/)             | |                |
-|🌃| ? [📙](https://emojipedia.org/night-with-stars/)             | |                |
-|🏙️| ? [📙](https://emojipedia.org/cityscape/)             | |                |
-|🌄| ? [📙](https://emojipedia.org/sunrise-over-mountains/)             | |                |
-|🌅| ? [📙](https://emojipedia.org/sunrise/)             | |                |
-|🌆| ? [📙](https://emojipedia.org/cityscape-at-dusk/)             | |                |
-|🌇| ? [📙](https://emojipedia.org/sunset/)             | |                |
-|🌉| ? [📙](https://emojipedia.org/bridge-at-night/)             | |                |
-|🎠| ? [📙](https://emojipedia.org/carousel-horse/)             | |                |
-|🎡| ? [📙](https://emojipedia.org/ferris-wheel/)             | |                |
-|🎢| ? [📙](https://emojipedia.org/roller-coaster/)             | |                |
-|🚂| ? [📙](https://emojipedia.org/locomotive/)             | |                |
-|🚃| ? [📙](https://emojipedia.org/railway-car/)             | |                |
-|🚄| ? [📙](https://emojipedia.org/high-speed-train/)             | |                |
-|🚅| ? [📙](https://emojipedia.org/bullet-train/)             | |                |
-|🚆| ? [📙](https://emojipedia.org/train/)             | |                |
-|🚇| ? [📙](https://emojipedia.org/metro/)             | |                |
-|🚈| ? [📙](https://emojipedia.org/light-rail/)             | |                |
-|🚉| ? [📙](https://emojipedia.org/station/)             | |                |
-|🚊| ? [📙](https://emojipedia.org/tram/)             | |                |
-|🚝| ? [📙](https://emojipedia.org/monorail/)             | |                |
-|🚞| ? [📙](https://emojipedia.org/mountain-railway/)             | |                |
-|🚋| ? [📙](https://emojipedia.org/tram-car/)             | |                |
-|🚌| ? [📙](https://emojipedia.org/bus/)             | |                |
-|🚍| ? [📙](https://emojipedia.org/oncoming-bus/)             | |                |
-|🚎| ? [📙](https://emojipedia.org/trolleybus/)             | |                |
-|🚐| ? [📙](https://emojipedia.org/minibus/)             | |                |
-|🚑| ? [📙](https://emojipedia.org/ambulance/)             | |                |
-|🚒| ? [📙](https://emojipedia.org/fire-engine/)             | |                |
-|🚓| ? [📙](https://emojipedia.org/police-car/)             | |                |
-|🚔| ? [📙](https://emojipedia.org/oncoming-police-car/)             | |                |
-|🚕| ? [📙](https://emojipedia.org/taxi/)             | |                |
-|🚖| ? [📙](https://emojipedia.org/oncoming-taxi/)             | |                |
-|🚗| ? [📙](https://emojipedia.org/automobile/)             | |                |
-|🚘| ? [📙](https://emojipedia.org/oncoming-automobile/)             | |                |
-|🚙| ? [📙](https://emojipedia.org/sport-utility-vehicle/)             | |                |
-|🛻| ? [📙](https://emojipedia.org/pickup-truck/)             | |                |
-|🚚| ? [📙](https://emojipedia.org/delivery-truck/)             | |                |
-|🚛| ? [📙](https://emojipedia.org/articulated-lorry/)             | |                |
-|🚜| ? [📙](https://emojipedia.org/tractor/)             | |                |
-|🏎️| ? [📙](https://emojipedia.org/racing-car/)             | |                |
-|🏍️| ? [📙](https://emojipedia.org/motorcycle/)             | |                |
-|🛵| ? [📙](https://emojipedia.org/motor-scooter/)             | |                |
-|🛺| ? [📙](https://emojipedia.org/auto-rickshaw/)             | |                |
-|🚲| ? [📙](https://emojipedia.org/bicycle/)             | |                |
-|🛴| ? [📙](https://emojipedia.org/kick-scooter/)             | |                |
-|🚏| ? [📙](https://emojipedia.org/bus-stop/)             | |                |
-|🛣️| ? [📙](https://emojipedia.org/motorway/)             | |                |
-|🛤️| ? [📙](https://emojipedia.org/railway-track/)             | |                |
-|⛽| ? [📙](https://emojipedia.org/fuel-pump/)             | |                |
-|🚨| ? [📙](https://emojipedia.org/police-car-light/)             | |                |
-|🚥| ? [📙](https://emojipedia.org/horizontal-traffic-light/)             | |                |
-|🚦| ? [📙](https://emojipedia.org/vertical-traffic-light/)             | |                |
-|🚧| ? [📙](https://emojipedia.org/construction/)             | |                |
-|⚓| ? [📙](https://emojipedia.org/anchor/)             | |                |
-|⛵| ? [📙](https://emojipedia.org/sailboat/)             | |                |
-|🚤| ? [📙](https://emojipedia.org/speedboat/)             | |                |
-|🛳️| ? [📙](https://emojipedia.org/passenger-ship/)             | |                |
-|⛴️| ? [📙](https://emojipedia.org/ferry/)             | |                |
-|🛥️| ? [📙](https://emojipedia.org/motor-boat/)             | |                |
-|🚢| ? [📙](https://emojipedia.org/ship/)             | |                |
-|✈️| ? [📙](https://emojipedia.org/airplane/)             | |                |
-|🛩️| ? [📙](https://emojipedia.org/small-airplane/)             | |                |
-|🛫| ? [📙](https://emojipedia.org/airplane-departure/)             | |                |
-|🛬| ? [📙](https://emojipedia.org/airplane-arrival/)             | |                |
-|🪂| ? [📙](https://emojipedia.org/parachute/)             | |                |
-|💺| ? [📙](https://emojipedia.org/seat/)             | |                |
-|🚁| ? [📙](https://emojipedia.org/helicopter/)             | |                |
-|🚟| ? [📙](https://emojipedia.org/suspension-railway/)             | |                |
-|🚠| ? [📙](https://emojipedia.org/mountain-cableway/)             | |                |
-|🚡| ? [📙](https://emojipedia.org/aerial-tramway/)             | |                |
-|🛰️| ? [📙](https://emojipedia.org/satellite/)             | |                |
-|🚀| ? [📙](https://emojipedia.org/rocket/)             | |                |
-|🛸| ? [📙](https://emojipedia.org/flying-saucer/)             | |                |
-|🪐| ? [📙](https://emojipedia.org/ringed-planet/)             | |                |
-|🌠| ? [📙](https://emojipedia.org/shooting-star/)             | |                |
-|🌌| ? [📙](https://emojipedia.org/milky-way/)             | |                |
-|⛱️| ? [📙](https://emojipedia.org/umbrella-on-ground/)             | |                |
-|🎆| ? [📙](https://emojipedia.org/fireworks/)             | |                |
-|🎇| ? [📙](https://emojipedia.org/sparkler/)             | |                |
-|🎑| ? [📙](https://emojipedia.org/moon-viewing-ceremony/)             | |                |
-|💴| ? [📙](https://emojipedia.org/yen-banknote/)             | |                |
-|💵| ? [📙](https://emojipedia.org/dollar-banknote/)             | |                |
-|💶| ? [📙](https://emojipedia.org/euro-banknote/)             | |                |
-|💷| ? [📙](https://emojipedia.org/pound-banknote/)             | |                |
-|🗿| ? [📙](https://emojipedia.org/moai/)             | |                |
-|🛂| ? [📙](https://emojipedia.org/passport-control/)             | |                |
-|🛃| ? [📙](https://emojipedia.org/customs/)             | |                |
-|🛄| ? [📙](https://emojipedia.org/baggage-claim/)             | |                |
-|🛅| ? [📙](https://emojipedia.org/left-luggage/)             | |                |
+| EMOJI |                         WIKI                          |                                        screen                                         |                   English audio                   |                          German audio                          |
+|:-----:|:-----------------------------------------------------:|:-------------------------------------------------------------------------------------:|:-------------------------------------------------:|:--------------------------------------------------------------:|
+|  🚗   |        [📙](https://emojipedia.org/automobile)        |  [🟢](screenshots/FireOS/7.5.6.3/white/🚗.png) [🟢](screenshots/OS/1.1/white/🚗.png)  |          [Car](audio/2024-07/en/🚗.mp3)           |                [Auto](audio/2024-07/de/🚗.mp3)                 |
+|  🚕   |           [📙](https://emojipedia.org/taxi)           |  [🟢](screenshots/FireOS/7.5.6.3/white/🚕.png) [🟢](screenshots/OS/1.1/white/🚕.png)  |          [Taxi](audio/2024-07/en/🚕.mp3)          |                [Taxi](audio/2024-07/de/🚕.mp3)                 |
+|  🚙   |  [📙](https://emojipedia.org/sport-utility-vehicle)   |  [🟢](screenshots/FireOS/7.5.6.3/white/🚙.png) [🟢](screenshots/OS/1.1/white/🚙.png)  |          [SUV](audio/2024-07/en/🚙.mp3)           |                 [SUV](audio/2024-07/de/🚙.mp3)                 |
+|  🚌   |           [📙](https://emojipedia.org/bus)            |  [🟢](screenshots/FireOS/7.5.6.3/white/🚌.png) [🟢](screenshots/OS/1.1/white/🚌.png)  |          [Bus](audio/2024-07/en/🚌.mp3)           |                [Buss](audio/2024-07/de/🚌.mp3)                 |
+|  🚎   |        [📙](https://emojipedia.org/trolleybus)        |  [🟢](screenshots/FireOS/7.5.6.3/white/🚎.png) [🟢](screenshots/OS/1.1/white/🚎.png)  |       [Trollibus](audio/2024-07/en/🚎.mp3)        |          [Oberleitung SBUs](audio/2024-07/de/🚎.mp3)           |
+|  🏎️  |        [📙](https://emojipedia.org/racing-car)        | [🟢](screenshots/FireOS/7.5.6.3/white/🏎️.png) [🟢](screenshots/OS/1.1/white/🏎️.png) |       [Race car](audio/2024-07/en/🏎️.mp3)        |              [Rennauto](audio/2024-07/de/🏎️.mp3)              |
+|  🚓   |        [📙](https://emojipedia.org/police-car)        |  [🟢](screenshots/FireOS/7.5.6.3/white/🚓.png) [🟢](screenshots/OS/1.1/white/🚓.png)  |       [Police car](audio/2024-07/en/🚓.mp3)       |            [Polizeiwagen](audio/2024-07/de/🚓.mp3)             |
+|  🚑   |        [📙](https://emojipedia.org/ambulance)         |  [🟢](screenshots/FireOS/7.5.6.3/white/🚑.png) [🟢](screenshots/OS/1.1/white/🚑.png)  |       [Ambulance](audio/2024-07/en/🚑.mp3)        |            [Rettungswagen](audio/2024-07/de/🚑.mp3)            |
+|  🚒   |       [📙](https://emojipedia.org/fire-engine)        |  [🟢](screenshots/FireOS/7.5.6.3/white/🚒.png) [🟢](screenshots/OS/1.1/white/🚒.png)  |      [Fire engine](audio/2024-07/en/🚒.mp3)       |           [Feuerwehrwagen](audio/2024-07/de/🚒.mp3)            |
+|  🚐   |         [📙](https://emojipedia.org/minibus)          |  [🟢](screenshots/FireOS/7.5.6.3/white/🚐.png) [🟢](screenshots/OS/1.1/white/🚐.png)  |        [Minibus](audio/2024-07/en/🚐.mp3)         |               [Minibus](audio/2024-07/de/🚐.mp3)               |
+|  🛻   |       [📙](https://emojipedia.org/pickup-truck)       |  [🔴](screenshots/FireOS/7.5.6.3/white/🛻.png) [🟢](screenshots/OS/1.1/white/🛻.png)  |           [-](audio/2024-07/en/🛻.mp3)            |                  [-](audio/2024-07/de/🛻.mp3)                  |
+|  🚚   |      [📙](https://emojipedia.org/delivery-truck)      |  [🟢](screenshots/FireOS/7.5.6.3/white/🚚.png) [🟢](screenshots/OS/1.1/white/🚚.png)  |     [Delivery Truck](audio/2024-07/en/🚚.mp3)     |             [Lieferwagen](audio/2024-07/de/🚚.mp3)             |
+|  🚛   |    [📙](https://emojipedia.org/articulated-lorry)     |  [🟢](screenshots/FireOS/7.5.6.3/white/🚛.png) [🟢](screenshots/OS/1.1/white/🚛.png)  |   [Semi-trailer truck](audio/2024-07/en/🚛.mp3)   |           [Sattelschlepper](audio/2024-07/de/🚛.mp3)           |
+|  🚜   |         [📙](https://emojipedia.org/tractor)          |  [🟢](screenshots/FireOS/7.5.6.3/white/🚜.png) [🟢](screenshots/OS/1.1/white/🚜.png)  |        [Tractor](audio/2024-07/en/🚜.mp3)         |               [Traktor](audio/2024-07/de/🚜.mp3)               |
+|  🦯   |        [📙](https://emojipedia.org/white-cane)        |  [🔴](screenshots/FireOS/7.5.6.3/white/🦯.png) [🟢](screenshots/OS/1.1/white/🦯.png)  |           [-](audio/2024-07/en/🦯.mp3)            |                  [-](audio/2024-07/de/🦯.mp3)                  |
+|  🦽   |    [📙](https://emojipedia.org/manual-wheelchair)     |  [🔴](screenshots/FireOS/7.5.6.3/white/🦽.png) [🟢](screenshots/OS/1.1/white/🦽.png)  |           [-](audio/2024-07/en/🦽.mp3)            |                  [-](audio/2024-07/de/🦽.mp3)                  |
+|  🦼   |   [📙](https://emojipedia.org/motorized-wheelchair)   |  [🔴](screenshots/FireOS/7.5.6.3/white/🦼.png) [🟢](screenshots/OS/1.1/white/🦼.png)  |           [-](audio/2024-07/en/🦼.mp3)            |                  [-](audio/2024-07/de/🦼.mp3)                  |
+|  🩼   |          [📙](https://emojipedia.org/crutch)          |  [🔴](screenshots/FireOS/7.5.6.3/white/🩼.png) [🔴](screenshots/OS/1.1/white/🩼.png)  |           [-](audio/2024-07/en/🩼.mp3)            |                  [-](audio/2024-07/de/🩼.mp3)                  |
+|  🛴   |       [📙](https://emojipedia.org/kick-scooter)       |  [🟢](screenshots/FireOS/7.5.6.3/white/🛴.png) [🟢](screenshots/OS/1.1/white/🛴.png)  |      [Kick Scooter](audio/2024-07/en/🛴.mp3)      |                  [-](audio/2024-07/de/🛴.mp3)                  |
+|  🚲   |         [📙](https://emojipedia.org/bicycle)          |  [🟢](screenshots/FireOS/7.5.6.3/white/🚲.png) [🟢](screenshots/OS/1.1/white/🚲.png)  |        [Bicycle](audio/2024-07/en/🚲.mp3)         |               [Fahrrad](audio/2024-07/de/🚲.mp3)               |
+|  🛵   |      [📙](https://emojipedia.org/motor-scooter)       |  [🟢](screenshots/FireOS/7.5.6.3/white/🛵.png) [🟢](screenshots/OS/1.1/white/🛵.png)  |     [Motor Scooter](audio/2024-07/en/🛵.mp3)      |                  [-](audio/2024-07/de/🛵.mp3)                  |
+|  🏍️  |        [📙](https://emojipedia.org/motorcycle)        | [🟢](screenshots/FireOS/7.5.6.3/white/🏍️.png) [🟢](screenshots/OS/1.1/white/🏍️.png) |      [motorcycle](audio/2024-07/en/🏍️.mp3)       |              [Motorrad](audio/2024-07/de/🏍️.mp3)              |
+|  🛺   |      [📙](https://emojipedia.org/auto-rickshaw)       |  [🔴](screenshots/FireOS/7.5.6.3/white/🛺.png) [🟢](screenshots/OS/1.1/white/🛺.png)  |           [-](audio/2024-07/en/🛺.mp3)            |                  [-](audio/2024-07/de/🛺.mp3)                  |
+|  🛞   |          [📙](https://emojipedia.org/wheel)           |  [🔴](screenshots/FireOS/7.5.6.3/white/🛞.png) [🔴](screenshots/OS/1.1/white/🛞.png)  |           [-](audio/2024-07/en/🛞.mp3)            |                  [-](audio/2024-07/de/🛞.mp3)                  |
+|  🚨   |     [📙](https://emojipedia.org/police-car-light)     |  [🟢](screenshots/FireOS/7.5.6.3/white/🚨.png) [🟢](screenshots/OS/1.1/white/🚨.png)  |      [Police Light](audio/2024-07/en/🚨.mp3)      |            [Polizeilicht](audio/2024-07/de/🚨.mp3)             |
+|  🚔   |   [📙](https://emojipedia.org/oncoming-police-car)    |  [🟢](screenshots/FireOS/7.5.6.3/white/🚔.png) [🟢](screenshots/OS/1.1/white/🚔.png)  |       [Police car](audio/2024-07/en/🚔.mp3)       |            [Polizeiwagen](audio/2024-07/de/🚔.mp3)             |
+|  🚍   |       [📙](https://emojipedia.org/oncoming-bus)       |  [🟢](screenshots/FireOS/7.5.6.3/white/🚍.png) [🟢](screenshots/OS/1.1/white/🚍.png)  |          [Bus](audio/2024-07/en/🚍.mp3)           |                [Buss](audio/2024-07/de/🚍.mp3)                 |
+|  🚘   |   [📙](https://emojipedia.org/oncoming-automobile)    |  [🟢](screenshots/FireOS/7.5.6.3/white/🚘.png) [🟢](screenshots/OS/1.1/white/🚘.png)  |          [Car](audio/2024-07/en/🚘.mp3)           |                [Auto](audio/2024-07/de/🚘.mp3)                 |
+|  🚖   |      [📙](https://emojipedia.org/oncoming-taxi)       |  [🟢](screenshots/FireOS/7.5.6.3/white/🚖.png) [🟢](screenshots/OS/1.1/white/🚖.png)  |          [Taxi](audio/2024-07/en/🚖.mp3)          |                [Taxi](audio/2024-07/de/🚖.mp3)                 |
+|  🚡   |      [📙](https://emojipedia.org/aerial-tramway)      |  [🟢](screenshots/FireOS/7.5.6.3/white/🚡.png) [🟢](screenshots/OS/1.1/white/🚡.png)  |     [Aerial Tramway](audio/2024-07/en/🚡.mp3)     |             [Pendelbahn](audio/2024-07/de/🚡.mp3)              |
+|  🚠   |    [📙](https://emojipedia.org/mountain-cableway)     |  [🟢](screenshots/FireOS/7.5.6.3/white/🚠.png) [🟢](screenshots/OS/1.1/white/🚠.png)  |   [Mountain Cableway](audio/2024-07/en/🚠.mp3)    |              [Bergbahn](audio/2024-07/de/🚠.mp3)               |
+|  🚟   |    [📙](https://emojipedia.org/suspension-railway)    |  [🟢](screenshots/FireOS/7.5.6.3/white/🚟.png) [🟢](screenshots/OS/1.1/white/🚟.png)  |   [Suspension Railway](audio/2024-07/en/🚟.mp3)   |             [Schwebebahn](audio/2024-07/de/🚟.mp3)             |
+|  🚃   |       [📙](https://emojipedia.org/railway-car)        |  [🟢](screenshots/FireOS/7.5.6.3/white/🚃.png) [🟢](screenshots/OS/1.1/white/🚃.png)  |      [Railway car](audio/2024-07/en/🚃.mp3)       |              [Bahnwagon](audio/2024-07/de/🚃.mp3)              |
+|  🚋   |         [📙](https://emojipedia.org/tram-car)         |  [🟢](screenshots/FireOS/7.5.6.3/white/🚋.png) [🟢](screenshots/OS/1.1/white/🚋.png)  |        [Tram car](audio/2024-07/en/🚋.mp3)        |          [Straßenbahnwagen](audio/2024-07/de/🚋.mp3)           |
+|  🚞   |     [📙](https://emojipedia.org/mountain-railway)     |  [🟢](screenshots/FireOS/7.5.6.3/white/🚞.png) [🟢](screenshots/OS/1.1/white/🚞.png)  |    [Mountain Railway](audio/2024-07/en/🚞.mp3)    |              [Bergbahn](audio/2024-07/de/🚞.mp3)               |
+|  🚝   |         [📙](https://emojipedia.org/monorail)         |  [🟢](screenshots/FireOS/7.5.6.3/white/🚝.png) [🟢](screenshots/OS/1.1/white/🚝.png)  |        [Monorail](audio/2024-07/en/🚝.mp3)        |          [Magnetschwebebahn](audio/2024-07/de/🚝.mp3)          |
+|  🚄   |     [📙](https://emojipedia.org/high-speed-train)     |  [🟢](screenshots/FireOS/7.5.6.3/white/🚄.png) [🟢](screenshots/OS/1.1/white/🚄.png)  |    [High-speed train](audio/2024-07/en/🚄.mp3)    |       [Hochgeschwindigkeitszug](audio/2024-07/de/🚄.mp3)       |
+|  🚅   |       [📙](https://emojipedia.org/bullet-train)       |  [🟢](screenshots/FireOS/7.5.6.3/white/🚅.png) [🟢](screenshots/OS/1.1/white/🚅.png)  |      [Bullet train](audio/2024-07/en/🚅.mp3)      |             [Schnellzug](audio/2024-07/de/🚅.mp3)              |
+|  🚈   |        [📙](https://emojipedia.org/light-rail)        |  [🟢](screenshots/FireOS/7.5.6.3/white/🚈.png) [🟢](screenshots/OS/1.1/white/🚈.png)  |       [Light Rail](audio/2024-07/en/🚈.mp3)       |               [Esbern](audio/2024-07/de/🚈.mp3)                |
+|  🚂   |        [📙](https://emojipedia.org/locomotive)        |  [🟢](screenshots/FireOS/7.5.6.3/white/🚂.png) [🟢](screenshots/OS/1.1/white/🚂.png)  |    [Steam locomotive](audio/2024-07/en/🚂.mp3)    |           [Dampflokomotive](audio/2024-07/de/🚂.mp3)           |
+|  🚆   |          [📙](https://emojipedia.org/train)           |  [🟢](screenshots/FireOS/7.5.6.3/white/🚆.png) [🟢](screenshots/OS/1.1/white/🚆.png)  |         [Train](audio/2024-07/en/🚆.mp3)          |                 [Zug](audio/2024-07/de/🚆.mp3)                 |
+|  🚇   |          [📙](https://emojipedia.org/metro)           |  [🟢](screenshots/FireOS/7.5.6.3/white/🚇.png) [🟢](screenshots/OS/1.1/white/🚇.png)  |         [Metro](audio/2024-07/en/🚇.mp3)          |               [U-Bahn](audio/2024-07/de/🚇.mp3)                |
+|  🚊   |           [📙](https://emojipedia.org/tram)           |  [🟢](screenshots/FireOS/7.5.6.3/white/🚊.png) [🟢](screenshots/OS/1.1/white/🚊.png)  |          [tram](audio/2024-07/en/🚊.mp3)          |             [Straßenbahn](audio/2024-07/de/🚊.mp3)             |
+|  🚉   |         [📙](https://emojipedia.org/station)          |  [🟢](screenshots/FireOS/7.5.6.3/white/🚉.png) [🟢](screenshots/OS/1.1/white/🚉.png)  |        [Station](audio/2024-07/en/🚉.mp3)         |               [Bahnhof](audio/2024-07/de/🚉.mp3)               |
+|  ✈️   |         [📙](https://emojipedia.org/airplane)         |  [🟢](screenshots/FireOS/7.5.6.3/white/✈️.png) [🟢](screenshots/OS/1.1/white/✈️.png)  |        [Airplane](audio/2024-07/en/✈️.mp3)        |              [Flugzeug](audio/2024-07/de/✈️.mp3)               |
+|  🛫   |    [📙](https://emojipedia.org/airplane-departure)    |  [🟢](screenshots/FireOS/7.5.6.3/white/🛫.png) [🟢](screenshots/OS/1.1/white/🛫.png)  |       [Departures](audio/2024-07/en/🛫.mp3)       |               [Abflüge](audio/2024-07/de/🛫.mp3)               |
+|  🛬   |     [📙](https://emojipedia.org/airplane-arrival)     |  [🟢](screenshots/FireOS/7.5.6.3/white/🛬.png) [🟢](screenshots/OS/1.1/white/🛬.png)  |        [Arrivals](audio/2024-07/en/🛬.mp3)        |              [Ankünfte](audio/2024-07/de/🛬.mp3)               |
+|  🛩️  |      [📙](https://emojipedia.org/small-airplane)      | [🟢](screenshots/FireOS/7.5.6.3/white/🛩️.png) [🟢](screenshots/OS/1.1/white/🛩️.png) |    [Small airplane](audio/2024-07/en/🛩️.mp3)     |          [Kleines Flugzeug](audio/2024-07/de/🛩️.mp3)          |
+|  💺   |           [📙](https://emojipedia.org/seat)           |  [🟢](screenshots/FireOS/7.5.6.3/white/💺.png) [🟢](screenshots/OS/1.1/white/💺.png)  |          [Seat](audio/2024-07/en/💺.mp3)          |                [Sitz](audio/2024-07/de/💺.mp3)                 |
+|  🛰️  |        [📙](https://emojipedia.org/satellite)         | [🟢](screenshots/FireOS/7.5.6.3/white/🛰️.png) [🟢](screenshots/OS/1.1/white/🛰️.png) |       [Satellite](audio/2024-07/en/🛰️.mp3)       |              [Satellit](audio/2024-07/de/🛰️.mp3)              |
+|  🚀   |          [📙](https://emojipedia.org/rocket)          |  [🟢](screenshots/FireOS/7.5.6.3/white/🚀.png) [🟢](screenshots/OS/1.1/white/🚀.png)  |         [Rocket](audio/2024-07/en/🚀.mp3)         |               [Rakete](audio/2024-07/de/🚀.mp3)                |
+|  🛸   |      [📙](https://emojipedia.org/flying-saucer)       |  [🟢](screenshots/FireOS/7.5.6.3/white/🛸.png) [🟢](screenshots/OS/1.1/white/🛸.png)  |     [Flying saucer](audio/2024-07/en/🛸.mp3)      |                  [-](audio/2024-07/de/🛸.mp3)                  |
+|  🚁   |        [📙](https://emojipedia.org/helicopter)        |  [🟢](screenshots/FireOS/7.5.6.3/white/🚁.png) [🟢](screenshots/OS/1.1/white/🚁.png)  |       [Helicopter](audio/2024-07/en/🚁.mp3)       |             [Helikopter](audio/2024-07/de/🚁.mp3)              |
+|  🛶   |          [📙](https://emojipedia.org/canoe)           |  [🟢](screenshots/FireOS/7.5.6.3/white/🛶.png) [🟢](screenshots/OS/1.1/white/🛶.png)  |        [Rowboat](audio/2024-07/en/🛶.mp3)         |                  [-](audio/2024-07/de/🛶.mp3)                  |
+|  ⛵️   |         [📙](https://emojipedia.org/sailboat)         |  [🟢](screenshots/FireOS/7.5.6.3/white/⛵️.png) [🟢](screenshots/OS/1.1/white/⛵️.png)  |        [Sailboat](audio/2024-07/en/⛵️.mp3)        |              [Segelboot](audio/2024-07/de/⛵️.mp3)              |
+|  🚤   |        [📙](https://emojipedia.org/speedboat)         |  [🟢](screenshots/FireOS/7.5.6.3/white/🚤.png) [🟢](screenshots/OS/1.1/white/🚤.png)  |       [Speedboat](audio/2024-07/en/🚤.mp3)        |             [Schnellboot](audio/2024-07/de/🚤.mp3)             |
+|  🛥️  |        [📙](https://emojipedia.org/motor-boat)        | [🟢](screenshots/FireOS/7.5.6.3/white/🛥️.png) [🟢](screenshots/OS/1.1/white/🛥️.png) |       [Motorboat](audio/2024-07/en/🛥️.mp3)       |             [Motorboot](audio/2024-07/de/🛥️.mp3)              |
+|  🛳️  |      [📙](https://emojipedia.org/passenger-ship)      | [🟢](screenshots/FireOS/7.5.6.3/white/🛳️.png) [🟢](screenshots/OS/1.1/white/🛳️.png) |      [Cruise ship](audio/2024-07/en/🛳️.mp3)      |          [Kreuzfahrtschiff](audio/2024-07/de/🛳️.mp3)          |
+|  ⛴️   |          [📙](https://emojipedia.org/ferry)           |  [🟢](screenshots/FireOS/7.5.6.3/white/⛴️.png) [🟢](screenshots/OS/1.1/white/⛴️.png)  |         [Fairy](audio/2024-07/en/⛴️.mp3)          |                [Fähre](audio/2024-07/de/⛴️.mp3)                |
+|  🚢   |           [📙](https://emojipedia.org/ship)           |  [🟢](screenshots/FireOS/7.5.6.3/white/🚢.png) [🟢](screenshots/OS/1.1/white/🚢.png)  |          [Ship](audio/2024-07/en/🚢.mp3)          |               [Schiff](audio/2024-07/de/🚢.mp3)                |
+|  🛟   |        [📙](https://emojipedia.org/ring-buoy)         |  [🔴](screenshots/FireOS/7.5.6.3/white/🛟.png) [🔴](screenshots/OS/1.1/white/🛟.png)  |           [-](audio/2024-07/en/🛟.mp3)            |                  [-](audio/2024-07/de/🛟.mp3)                  |
+|  ⚓️   |          [📙](https://emojipedia.org/anchor)          |  [🟢](screenshots/FireOS/7.5.6.3/white/⚓️.png) [🟢](screenshots/OS/1.1/white/⚓️.png)  |         [Anchor](audio/2024-07/en/⚓️.mp3)         |                [Anker](audio/2024-07/de/⚓️.mp3)                |
+|  🪝   |           [📙](https://emojipedia.org/hook)           |  [🔴](screenshots/FireOS/7.5.6.3/white/🪝.png) [🟢](screenshots/OS/1.1/white/🪝.png)  |           [-](audio/2024-07/en/🪝.mp3)            |                  [-](audio/2024-07/de/🪝.mp3)                  |
+|  ⛽️   |        [📙](https://emojipedia.org/fuel-pump)         |  [🟢](screenshots/FireOS/7.5.6.3/white/⛽️.png) [🟢](screenshots/OS/1.1/white/⛽️.png)  |        [Gas pump](audio/2024-07/en/⛽️.mp3)        |             [Benzinpumpe](audio/2024-07/de/⛽️.mp3)             |
+|  🚧   |       [📙](https://emojipedia.org/construction)       |  [🟢](screenshots/FireOS/7.5.6.3/white/🚧.png) [🟢](screenshots/OS/1.1/white/🚧.png)  |   [Construction Sign](audio/2024-07/en/🚧.mp3)    |          [Baustellenschild](audio/2024-07/de/🚧.mp3)           |
+|  🚦   |  [📙](https://emojipedia.org/vertical-traffic-light)  |  [🟢](screenshots/FireOS/7.5.6.3/white/🚦.png) [🟢](screenshots/OS/1.1/white/🚦.png)  | [Vertical Traffic Light](audio/2024-07/en/🚦.mp3) | [Verkehrsampel vertikaler Anordnung](audio/2024-07/de/🚦.mp3)  |
+|  🚥   | [📙](https://emojipedia.org/horizontal-traffic-light) |  [🟢](screenshots/FireOS/7.5.6.3/white/🚥.png) [🟢](screenshots/OS/1.1/white/🚥.png)  |     [Traffic light](audio/2024-07/en/🚥.mp3)      |            [Verkehrsampel](audio/2024-07/de/🚥.mp3)            |
+|  🚏   |         [📙](https://emojipedia.org/bus-stop)         |  [🟢](screenshots/FireOS/7.5.6.3/white/🚏.png) [🟢](screenshots/OS/1.1/white/🚏.png)  |       [Bus stop.](audio/2024-07/en/🚏.mp3)        |             [Haltestelle](audio/2024-07/de/🚏.mp3)             |
+|  🗺️  |        [📙](https://emojipedia.org/world-map)         | [🟢](screenshots/FireOS/7.5.6.3/white/🗺️.png) [🟢](screenshots/OS/1.1/white/🗺️.png) |       [World Map](audio/2024-07/en/🗺️.mp3)       |             [Weltkarte](audio/2024-07/de/🗺️.mp3)              |
+|  🗿   |           [📙](https://emojipedia.org/moai)           |  [🟢](screenshots/FireOS/7.5.6.3/white/🗿.png) [🟢](screenshots/OS/1.1/white/🗿.png)  |          [Moai](audio/2024-07/en/🗿.mp3)          |                [Moai](audio/2024-07/de/🗿.mp3)                 |
+|  🗽   |    [📙](https://emojipedia.org/statue-of-liberty)     |  [🟢](screenshots/FireOS/7.5.6.3/white/🗽.png) [🟢](screenshots/OS/1.1/white/🗽.png)  |   [Statue of Liberty](audio/2024-07/en/🗽.mp3)    |           [Freiheitsstatue](audio/2024-07/de/🗽.mp3)           |
+|  🗼   |       [📙](https://emojipedia.org/tokyo-tower)        |  [🟢](screenshots/FireOS/7.5.6.3/white/🗼.png) [🟢](screenshots/OS/1.1/white/🗼.png)  |      [Tokyo Tower](audio/2024-07/en/🗼.mp3)       |             [Tokyo Tower](audio/2024-07/de/🗼.mp3)             |
+|  🏰   |          [📙](https://emojipedia.org/castle)          |  [🟢](screenshots/FireOS/7.5.6.3/white/🏰.png) [🟢](screenshots/OS/1.1/white/🏰.png)  |    [European Castle](audio/2024-07/en/🏰.mp3)     |       [Burgschloss Europäisch](audio/2024-07/de/🏰.mp3)        |
+|  🏯   |     [📙](https://emojipedia.org/japanese-castle)      |  [🟢](screenshots/FireOS/7.5.6.3/white/🏯.png) [🟢](screenshots/OS/1.1/white/🏯.png)  |    [Japanese Castle](audio/2024-07/en/🏯.mp3)     |        [Burgschloss Japanisch](audio/2024-07/de/🏯.mp3)        |
+|  🏟️  |         [📙](https://emojipedia.org/stadium)          | [🟢](screenshots/FireOS/7.5.6.3/white/🏟️.png) [🟢](screenshots/OS/1.1/white/🏟️.png) |        [Stadium](audio/2024-07/en/🏟️.mp3)        |              [Stadion](audio/2024-07/de/🏟️.mp3)               |
+|  🎡   |       [📙](https://emojipedia.org/ferris-wheel)       |  [🟢](screenshots/FireOS/7.5.6.3/white/🎡.png) [🟢](screenshots/OS/1.1/white/🎡.png)  |      [Ferris wheel](audio/2024-07/en/🎡.mp3)      |              [Riesenrat](audio/2024-07/de/🎡.mp3)              |
+|  🎢   |      [📙](https://emojipedia.org/roller-coaster)      |  [🟢](screenshots/FireOS/7.5.6.3/white/🎢.png) [🟢](screenshots/OS/1.1/white/🎢.png)  |     [Roller coaster](audio/2024-07/en/🎢.mp3)     |             [Achterbahn](audio/2024-07/de/🎢.mp3)              |
+|  🎠   |      [📙](https://emojipedia.org/carousel-horse)      |  [🟢](screenshots/FireOS/7.5.6.3/white/🎠.png) [🟢](screenshots/OS/1.1/white/🎠.png)  |     [Carousel Horse](audio/2024-07/en/🎠.mp3)     |           [Karussellpferd](audio/2024-07/de/🎠.mp3)            |
+|  ⛲️   |         [📙](https://emojipedia.org/fountain)         |  [🟢](screenshots/FireOS/7.5.6.3/white/⛲️.png) [🟢](screenshots/OS/1.1/white/⛲️.png)  |        [Fountain](audio/2024-07/en/⛲️.mp3)        |            [Springbrunnen](audio/2024-07/de/⛲️.mp3)            |
+|  ⛱️   |    [📙](https://emojipedia.org/umbrella-on-ground)    |  [🟢](screenshots/FireOS/7.5.6.3/white/⛱️.png) [🟢](screenshots/OS/1.1/white/⛱️.png)  |        [Umbrella](audio/2024-07/en/⛱️.mp3)        |             [Regenschirm](audio/2024-07/de/⛱️.mp3)             |
+|  🏖️  |   [📙](https://emojipedia.org/beach-with-umbrella)    | [🟢](screenshots/FireOS/7.5.6.3/white/🏖️.png) [🟢](screenshots/OS/1.1/white/🏖️.png) |         [Beach](audio/2024-07/en/🏖️.mp3)         |               [Strand](audio/2024-07/de/🏖️.mp3)               |
+|  🏝️  |      [📙](https://emojipedia.org/desert-island)       | [🟢](screenshots/FireOS/7.5.6.3/white/🏝️.png) [🟢](screenshots/OS/1.1/white/🏝️.png) |     [Desert Island](audio/2024-07/en/🏝️.mp3)     |            [Wüsteninsel](audio/2024-07/de/🏝️.mp3)             |
+|  🏜️  |          [📙](https://emojipedia.org/desert)          | [🟢](screenshots/FireOS/7.5.6.3/white/🏜️.png) [🟢](screenshots/OS/1.1/white/🏜️.png) |        [Desert](audio/2024-07/en/🏜️.mp3)         |               [Wüste](audio/2024-07/de/🏜️.mp3)                |
+|  🌋   |         [📙](https://emojipedia.org/volcano)          |  [🟢](screenshots/FireOS/7.5.6.3/white/🌋.png) [🟢](screenshots/OS/1.1/white/🌋.png)  |        [Volcano](audio/2024-07/en/🌋.mp3)         |               [Vulkan](audio/2024-07/de/🌋.mp3)                |
+|  ⛰️   |         [📙](https://emojipedia.org/mountain)         |  [🟢](screenshots/FireOS/7.5.6.3/white/⛰️.png) [🟢](screenshots/OS/1.1/white/⛰️.png)  |        [Mountain](audio/2024-07/en/⛰️.mp3)        |                [Berg](audio/2024-07/de/⛰️.mp3)                 |
+|  🏔️  |   [📙](https://emojipedia.org/snow-capped-mountain)   | [🟢](screenshots/FireOS/7.5.6.3/white/🏔️.png) [🟢](screenshots/OS/1.1/white/🏔️.png) |         [Alps](audio/2024-07/en/🏔️.mp3)          |               [Alpen](audio/2024-07/de/🏔️.mp3)                |
+|  🗻   |        [📙](https://emojipedia.org/mount-fuji)        |  [🟢](screenshots/FireOS/7.5.6.3/white/🗻.png) [🟢](screenshots/OS/1.1/white/🗻.png)  |       [Mount Fuji](audio/2024-07/en/🗻.mp3)       |              [Berg Fuji](audio/2024-07/de/🗻.mp3)              |
+|  🏕️  |         [📙](https://emojipedia.org/camping)          | [🟢](screenshots/FireOS/7.5.6.3/white/🏕️.png) [🟢](screenshots/OS/1.1/white/🏕️.png) |        [Camping](audio/2024-07/en/🏕️.mp3)        |              [Camping](audio/2024-07/de/🏕️.mp3)               |
+|  ⛺️   |           [📙](https://emojipedia.org/tent)           |  [🟢](screenshots/FireOS/7.5.6.3/white/⛺️.png) [🟢](screenshots/OS/1.1/white/⛺️.png)  |          [Tent](audio/2024-07/en/⛺️.mp3)          |                [Zelt](audio/2024-07/de/⛺️.mp3)                 |
+|  🛖   |           [📙](https://emojipedia.org/hut)            |  [🔴](screenshots/FireOS/7.5.6.3/white/🛖.png) [🟢](screenshots/OS/1.1/white/🛖.png)  |           [-](audio/2024-07/en/🛖.mp3)            |                  [-](audio/2024-07/de/🛖.mp3)                  |
+|  🏠   |          [📙](https://emojipedia.org/house)           |  [🟢](screenshots/FireOS/7.5.6.3/white/🏠.png) [🟢](screenshots/OS/1.1/white/🏠.png)  |         [House](audio/2024-07/en/🏠.mp3)          |                [Haus](audio/2024-07/de/🏠.mp3)                 |
+|  🏡   |    [📙](https://emojipedia.org/house-with-garden)     |  [🟢](screenshots/FireOS/7.5.6.3/white/🏡.png) [🟢](screenshots/OS/1.1/white/🏡.png)  |   [House with garden.](audio/2024-07/en/🏡.mp3)   |           [Haus mit Garten](audio/2024-07/de/🏡.mp3)           |
+|  🏘️  |          [📙](https://emojipedia.org/houses)          | [🟢](screenshots/FireOS/7.5.6.3/white/🏘️.png) [🟢](screenshots/OS/1.1/white/🏘️.png) |     [Neighborhood](audio/2024-07/en/🏘️.mp3)      |               [Gegend](audio/2024-07/de/🏘️.mp3)               |
+|  🏚️  |      [📙](https://emojipedia.org/derelict-house)      | [🟢](screenshots/FireOS/7.5.6.3/white/🏚️.png) [🟢](screenshots/OS/1.1/white/🏚️.png) |    [Derelict house](audio/2024-07/en/🏚️.mp3)     |         [Verfall Ennes Haus](audio/2024-07/de/🏚️.mp3)         |
+|  🏗️  |  [📙](https://emojipedia.org/building-construction)   | [🟢](screenshots/FireOS/7.5.6.3/white/🏗️.png) [🟢](screenshots/OS/1.1/white/🏗️.png) | [Building construction](audio/2024-07/en/🏗️.mp3) |              [Hochbau](audio/2024-07/de/🏗️.mp3)               |
+|  🏭   |         [📙](https://emojipedia.org/factory)          |  [🟢](screenshots/FireOS/7.5.6.3/white/🏭.png) [🟢](screenshots/OS/1.1/white/🏭.png)  |        [Factory](audio/2024-07/en/🏭.mp3)         |               [Fabrik](audio/2024-07/de/🏭.mp3)                |
+|  🏢   |     [📙](https://emojipedia.org/office-building)      |  [🟢](screenshots/FireOS/7.5.6.3/white/🏢.png) [🟢](screenshots/OS/1.1/white/🏢.png)  |    [Office Building](audio/2024-07/en/🏢.mp3)     |             [Bürogebäude](audio/2024-07/de/🏢.mp3)             |
+|  🏬   |     [📙](https://emojipedia.org/department-store)     |  [🟢](screenshots/FireOS/7.5.6.3/white/🏬.png) [🟢](screenshots/OS/1.1/white/🏬.png)  |    [Department Store](audio/2024-07/en/🏬.mp3)    |              [Kaufhaus](audio/2024-07/de/🏬.mp3)               |
+|  🏣   |   [📙](https://emojipedia.org/japanese-post-office)   |  [🟢](screenshots/FireOS/7.5.6.3/white/🏣.png) [🟢](screenshots/OS/1.1/white/🏣.png)  |      [Post Office](audio/2024-07/en/🏣.mp3)       |             [Postgebäude](audio/2024-07/de/🏣.mp3)             |
+|  🏤   |       [📙](https://emojipedia.org/post-office)        |  [🟢](screenshots/FireOS/7.5.6.3/white/🏤.png) [🟢](screenshots/OS/1.1/white/🏤.png)  |  [European Post Office](audio/2024-07/en/🏤.mp3)  |      [Europäisches Postgebäude](audio/2024-07/de/🏤.mp3)       |
+|  🏥   |         [📙](https://emojipedia.org/hospital)         |  [🟢](screenshots/FireOS/7.5.6.3/white/🏥.png) [🟢](screenshots/OS/1.1/white/🏥.png)  |        [Hospital](audio/2024-07/en/🏥.mp3)        |             [Krankenhaus](audio/2024-07/de/🏥.mp3)             |
+|  🏦   |           [📙](https://emojipedia.org/bank)           |  [🟢](screenshots/FireOS/7.5.6.3/white/🏦.png) [🟢](screenshots/OS/1.1/white/🏦.png)  |          [Bank](audio/2024-07/en/🏦.mp3)          |                [Bank](audio/2024-07/de/🏦.mp3)                 |
+|  🏨   |          [📙](https://emojipedia.org/hotel)           |  [🟢](screenshots/FireOS/7.5.6.3/white/🏨.png) [🟢](screenshots/OS/1.1/white/🏨.png)  |         [Hotel](audio/2024-07/en/🏨.mp3)          |                [Hotel](audio/2024-07/de/🏨.mp3)                |
+|  🏪   |    [📙](https://emojipedia.org/convenience-store)     |  [🟢](screenshots/FireOS/7.5.6.3/white/🏪.png) [🟢](screenshots/OS/1.1/white/🏪.png)  |   [Convenience Store](audio/2024-07/en/🏪.mp3)    |          [Verbrauchermarkt](audio/2024-07/de/🏪.mp3)           |
+|  🏫   |          [📙](https://emojipedia.org/school)          |  [🟢](screenshots/FireOS/7.5.6.3/white/🏫.png) [🟢](screenshots/OS/1.1/white/🏫.png)  |         [School](audio/2024-07/en/🏫.mp3)         |               [Schule](audio/2024-07/de/🏫.mp3)                |
+|  🏩   |        [📙](https://emojipedia.org/love-hotel)        |  [🟢](screenshots/FireOS/7.5.6.3/white/🏩.png) [🟢](screenshots/OS/1.1/white/🏩.png)  |       [Love Hotel](audio/2024-07/en/🏩.mp3)       |            [Stundenhotel](audio/2024-07/de/🏩.mp3)             |
+|  💒   |         [📙](https://emojipedia.org/wedding)          |  [🟢](screenshots/FireOS/7.5.6.3/white/💒.png) [🟢](screenshots/OS/1.1/white/💒.png)  |        [Wedding](audio/2024-07/en/💒.mp3)         |              [Hochzeit](audio/2024-07/de/💒.mp3)               |
+|  🏛️  |    [📙](https://emojipedia.org/classical-building)    | [🟢](screenshots/FireOS/7.5.6.3/white/🏛️.png) [🟢](screenshots/OS/1.1/white/🏛️.png) |       [Landmark](audio/2024-07/en/🏛️.mp3)        |            [Wahrzeichen](audio/2024-07/de/🏛️.mp3)             |
+|  ⛪️   |          [📙](https://emojipedia.org/church)          |  [🟢](screenshots/FireOS/7.5.6.3/white/⛪️.png) [🟢](screenshots/OS/1.1/white/⛪️.png)  |         [Church](audio/2024-07/en/⛪️.mp3)         |               [Kirche](audio/2024-07/de/⛪️.mp3)                |
+|  🕌   |          [📙](https://emojipedia.org/mosque)          |  [🟢](screenshots/FireOS/7.5.6.3/white/🕌.png) [🟢](screenshots/OS/1.1/white/🕌.png)  |          [Mask](audio/2024-07/en/🕌.mp3)          |               [Moschee](audio/2024-07/de/🕌.mp3)               |
+|  🕍   |        [📙](https://emojipedia.org/synagogue)         |  [🟢](screenshots/FireOS/7.5.6.3/white/🕍.png) [🟢](screenshots/OS/1.1/white/🕍.png)  |       [Synagogue](audio/2024-07/en/🕍.mp3)        |              [Synagoge](audio/2024-07/de/🕍.mp3)               |
+|  🛕   |       [📙](https://emojipedia.org/hindu-temple)       |  [🔴](screenshots/FireOS/7.5.6.3/white/🛕.png) [🟢](screenshots/OS/1.1/white/🛕.png)  |           [-](audio/2024-07/en/🛕.mp3)            |                  [-](audio/2024-07/de/🛕.mp3)                  |
+|  🕋   |          [📙](https://emojipedia.org/kaaba)           |  [🟢](screenshots/FireOS/7.5.6.3/white/🕋.png) [🟢](screenshots/OS/1.1/white/🕋.png)  |         [Kaaba](audio/2024-07/en/🕋.mp3)          |                [Kaaba](audio/2024-07/de/🕋.mp3)                |
+|  ⛩️   |      [📙](https://emojipedia.org/shinto-shrine)       |  [🟢](screenshots/FireOS/7.5.6.3/white/⛩️.png) [🟢](screenshots/OS/1.1/white/⛩️.png)  |         [Shrine](audio/2024-07/en/⛩️.mp3)         |               [Schrein](audio/2024-07/de/⛩️.mp3)               |
+|  🛤️  |      [📙](https://emojipedia.org/railway-track)       | [🟢](screenshots/FireOS/7.5.6.3/white/🛤️.png) [🟢](screenshots/OS/1.1/white/🛤️.png) |        [Railway](audio/2024-07/en/🛤️.mp3)        |             [Eisenbahn](audio/2024-07/de/🛤️.mp3)              |
+|  🛣️  |         [📙](https://emojipedia.org/motorway)         | [🟢](screenshots/FireOS/7.5.6.3/white/🛣️.png) [🟢](screenshots/OS/1.1/white/🛣️.png) |        [Highway](audio/2024-07/en/🛣️.mp3)        |              [Autobahn](audio/2024-07/de/🛣️.mp3)              |
+|  🗾   |       [📙](https://emojipedia.org/map-of-japan)       |  [🟢](screenshots/FireOS/7.5.6.3/white/🗾.png) [🟢](screenshots/OS/1.1/white/🗾.png)  |         [Japan](audio/2024-07/en/🗾.mp3)          |                [Japan](audio/2024-07/de/🗾.mp3)                |
+|  🎑   |  [📙](https://emojipedia.org/moon-viewing-ceremony)   |  [🟢](screenshots/FireOS/7.5.6.3/white/🎑.png) [🟢](screenshots/OS/1.1/white/🎑.png)  | [Moon viewing ceremony](audio/2024-07/en/🎑.mp3)  |           [Mondschaufeier](audio/2024-07/de/🎑.mp3)            |
+|  🏞️  |      [📙](https://emojipedia.org/national-park)       | [🟢](screenshots/FireOS/7.5.6.3/white/🏞️.png) [🟢](screenshots/OS/1.1/white/🏞️.png) |     [National Park](audio/2024-07/en/🏞️.mp3)     |            [Nationalpark](audio/2024-07/de/🏞️.mp3)            |
+|  🌅   |         [📙](https://emojipedia.org/sunrise)          |  [🟢](screenshots/FireOS/7.5.6.3/white/🌅.png) [🟢](screenshots/OS/1.1/white/🌅.png)  |        [Sunrise](audio/2024-07/en/🌅.mp3)         |            [Sonnenaufgang](audio/2024-07/de/🌅.mp3)            |
+|  🌄   |  [📙](https://emojipedia.org/sunrise-over-mountains)  |  [🟢](screenshots/FireOS/7.5.6.3/white/🌄.png) [🟢](screenshots/OS/1.1/white/🌄.png)  | [Sunrise over mountains](audio/2024-07/en/🌄.mp3) |      [Sonnenaufgang über Bergen](audio/2024-07/de/🌄.mp3)      |
+|  🌠   |      [📙](https://emojipedia.org/shooting-star)       |  [🟢](screenshots/FireOS/7.5.6.3/white/🌠.png) [🟢](screenshots/OS/1.1/white/🌠.png)  |     [Shooting Star](audio/2024-07/en/🌠.mp3)      |            [Sternschnuppe](audio/2024-07/de/🌠.mp3)            |
+|  🎇   |         [📙](https://emojipedia.org/sparkler)         |  [🟢](screenshots/FireOS/7.5.6.3/white/🎇.png) [🟢](screenshots/OS/1.1/white/🎇.png)  |        [Sparkler](audio/2024-07/en/🎇.mp3)        |             [Wunderkerze](audio/2024-07/de/🎇.mp3)             |
+|  🎆   |        [📙](https://emojipedia.org/fireworks)         |  [🟢](screenshots/FireOS/7.5.6.3/white/🎆.png) [🟢](screenshots/OS/1.1/white/🎆.png)  |       [Fireworks](audio/2024-07/en/🎆.mp3)        |              [Feuerwerk](audio/2024-07/de/🎆.mp3)              |
+|  🌇   |          [📙](https://emojipedia.org/sunset)          |  [🟢](screenshots/FireOS/7.5.6.3/white/🌇.png) [🟢](screenshots/OS/1.1/white/🌇.png)  |  [Cityscape at sunset.](audio/2024-07/en/🌇.mp3)  | [Stadtsilhouette bei Sonnenuntergang](audio/2024-07/de/🌇.mp3) |
+|  🌆   |    [📙](https://emojipedia.org/cityscape-at-dusk)     |  [🟢](screenshots/FireOS/7.5.6.3/white/🌆.png) [🟢](screenshots/OS/1.1/white/🌆.png)  |   [Cityscape at dusk.](audio/2024-07/en/🌆.mp3)   |     [Abendliche Stadtsilhouette](audio/2024-07/de/🌆.mp3)      |
+|  🏙️  |        [📙](https://emojipedia.org/cityscape)         | [🟢](screenshots/FireOS/7.5.6.3/white/🏙️.png) [🟢](screenshots/OS/1.1/white/🏙️.png) |       [Cityscape](audio/2024-07/en/🏙️.mp3)       |          [Stadtsilhouette](audio/2024-07/de/🏙️.mp3)           |
+|  🌃   |     [📙](https://emojipedia.org/night-with-stars)     |  [🟢](screenshots/FireOS/7.5.6.3/white/🌃.png) [🟢](screenshots/OS/1.1/white/🌃.png)  |  [Cityscape at night.](audio/2024-07/en/🌃.mp3)   |     [Nächtliche Stadtsilhouette](audio/2024-07/de/🌃.mp3)      |
+|  🌌   |        [📙](https://emojipedia.org/milky-way)         |  [🟢](screenshots/FireOS/7.5.6.3/white/🌌.png) [🟢](screenshots/OS/1.1/white/🌌.png)  |       [Milky Way](audio/2024-07/en/🌌.mp3)        |             [Milchstraße](audio/2024-07/de/🌌.mp3)             |
+|  🌉   |     [📙](https://emojipedia.org/bridge-at-night)      |  [🟢](screenshots/FireOS/7.5.6.3/white/🌉.png) [🟢](screenshots/OS/1.1/white/🌉.png)  |     [Bridget Knight](audio/2024-07/en/🌉.mp3)     |          [Brücke bei Nacht](audio/2024-07/de/🌉.mp3)           |
+|  🌁   |          [📙](https://emojipedia.org/foggy)           |  [🟢](screenshots/FireOS/7.5.6.3/white/🌁.png) [🟢](screenshots/OS/1.1/white/🌁.png)  |         [Foggy.](audio/2024-07/en/🌁.mp3)         |               [neblig](audio/2024-07/de/🌁.mp3)                |
 
 
-Last Update 13 Nov 2020 based on [Emoji Version 13.0](https://emojipedia.org/emoji-13.0/)
+
+Last Update July 2024 based on [Emoji Version 15.1](https://emojipedia.org/emoji-15.1)
