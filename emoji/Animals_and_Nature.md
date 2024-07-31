@@ -1,211 +1,220 @@
 # EMOJI on ALEXA devices with SCREENS - Animals & Nature (x/y)
 
-| EMOJI | supported | English SSML  | German SSML   |
-|:-----:|:---------:|:-------------:|:-------------:|
-|🙈| ? [📙](https://emojipedia.org/see-no-evil-monkey/)             | |                |
-|🙉| ? [📙](https://emojipedia.org/hear-no-evil-monkey/)             | |                |
-|🙊| ? [📙](https://emojipedia.org/speak-no-evil-monkey/)             | |                |
-|💥| ? [📙](https://emojipedia.org/collision/)             | |                |
-|💫| ? [📙](https://emojipedia.org/dizzy/)             | |                |
-|💦| ? [📙](https://emojipedia.org/sweat-droplets/)             | |                |
-|💨| ? [📙](https://emojipedia.org/dashing-away/)             | |                |
-|🐵| ? [📙](https://emojipedia.org/monkey-face/)             | |                |
-|🐒| ? [📙](https://emojipedia.org/monkey/)             | |                |
-|🦍| ? [📙](https://emojipedia.org/gorilla/)             | |                |
-|🦧| ? [📙](https://emojipedia.org/orangutan/)             | |                |
-|🐶| ? [📙](https://emojipedia.org/dog-face/)             | |                |
-|🐕| ? [📙](https://emojipedia.org/dog/)             | |                |
-|🦮| ? [📙](https://emojipedia.org/guide-dog/)             | |                |
-|🐕‍🦺| ? [📙](https://emojipedia.org/service-dog/)             | |                |
-|🐩| ? [📙](https://emojipedia.org/poodle/)             | |                |
-|🐺| ? [📙](https://emojipedia.org/wolf/)             | |                |
-|🦊| ? [📙](https://emojipedia.org/fox/)             | |                |
-|🦝| ? [📙](https://emojipedia.org/raccoon/)             | |                |
-|🐱| ? [📙](https://emojipedia.org/cat-face/)             | |                |
-|🐈| ? [📙](https://emojipedia.org/cat/)             | |                |
-|🐈‍⬛| ? [📙](https://emojipedia.org/black-cat/)             | |                |
-|🦁| ? [📙](https://emojipedia.org/lion/)             | |                |
-|🐯| ? [📙](https://emojipedia.org/tiger-face/)             | |                |
-|🐅| ? [📙](https://emojipedia.org/tiger/)             | |                |
-|🐆| ? [📙](https://emojipedia.org/leopard/)             | |                |
-|🐴| ? [📙](https://emojipedia.org/horse-face/)             | |                |
-|🐎| ? [📙](https://emojipedia.org/horse/)             | |                |
-|🦄| ? [📙](https://emojipedia.org/unicorn/)             | |                |
-|🦓| ? [📙](https://emojipedia.org/zebra/)             | |                |
-|🦌| ? [📙](https://emojipedia.org/deer/)             | |                |
-|🦬| ? [📙](https://emojipedia.org/bison/)             | |                |
-|🐮| ? [📙](https://emojipedia.org/cow-face/)             | |                |
-|🐂| ? [📙](https://emojipedia.org/ox/)             | |                |
-|🐃| ? [📙](https://emojipedia.org/water-buffalo/)             | |                |
-|🐄| ? [📙](https://emojipedia.org/cow/)             | |                |
-|🐷| ? [📙](https://emojipedia.org/pig-face/)             | |                |
-|🐖| ? [📙](https://emojipedia.org/pig/)             | |                |
-|🐗| ? [📙](https://emojipedia.org/boar/)             | |                |
-|🐽| ? [📙](https://emojipedia.org/pig-nose/)             | |                |
-|🐏| ? [📙](https://emojipedia.org/ram/)             | |                |
-|🐑| ? [📙](https://emojipedia.org/ewe/)             | |                |
-|🐐| ? [📙](https://emojipedia.org/goat/)             | |                |
-|🐪| ? [📙](https://emojipedia.org/camel/)             | |                |
-|🐫| ? [📙](https://emojipedia.org/two-hump-camel/)             | |                |
-|🦙| ? [📙](https://emojipedia.org/llama/)             | |                |
-|🦒| ? [📙](https://emojipedia.org/giraffe/)             | |                |
-|🐘| ? [📙](https://emojipedia.org/elephant/)             | |                |
-|🦣| ? [📙](https://emojipedia.org/mammoth/)             | |                |
-|🦏| ? [📙](https://emojipedia.org/rhinoceros/)             | |                |
-|🦛| ? [📙](https://emojipedia.org/hippopotamus/)             | |                |
-|🐭| ? [📙](https://emojipedia.org/mouse-face/)             | |                |
-|🐁| ? [📙](https://emojipedia.org/mouse/)             | |                |
-|🐀| ? [📙](https://emojipedia.org/rat/)             | |                |
-|🐹| ? [📙](https://emojipedia.org/hamster/)             | |                |
-|🐰| ? [📙](https://emojipedia.org/rabbit-face/)             | |                |
-|🐇| ? [📙](https://emojipedia.org/rabbit/)             | |                |
-|🐿️| ? [📙](https://emojipedia.org/chipmunk/)             | |                |
-|🦫| ? [📙](https://emojipedia.org/beaver/)             | |                |
-|🦔| ? [📙](https://emojipedia.org/hedgehog/)             | |                |
-|🦇| ? [📙](https://emojipedia.org/bat/)             | |                |
-|🐻| ? [📙](https://emojipedia.org/bear/)             | |                |
-|🐻‍❄️| ? [📙](https://emojipedia.org/polar-bear/)             | |                |
-|🐨| ? [📙](https://emojipedia.org/koala/)             | |                |
-|🐼| ? [📙](https://emojipedia.org/panda/)             | |                |
-|🦥| ? [📙](https://emojipedia.org/sloth/)             | |                |
-|🦦| ? [📙](https://emojipedia.org/otter/)             | |                |
-|🦨| ? [📙](https://emojipedia.org/skunk/)             | |                |
-|🦘| ? [📙](https://emojipedia.org/kangaroo/)             | |                |
-|🦡| ? [📙](https://emojipedia.org/badger/)             | |                |
-|🐾| ? [📙](https://emojipedia.org/paw-prints/)             | |                |
-|🦃| ? [📙](https://emojipedia.org/turkey/)             | |                |
-|🐔| ? [📙](https://emojipedia.org/chicken/)             | |                |
-|🐓| ? [📙](https://emojipedia.org/rooster/)             | |                |
-|🐣| ? [📙](https://emojipedia.org/hatching-chick/)             | |                |
-|🐤| ? [📙](https://emojipedia.org/baby-chick/)             | |                |
-|🐥| ? [📙](https://emojipedia.org/front-facing-baby-chick/)             | |                |
-|🐦| ? [📙](https://emojipedia.org/bird/)             | |                |
-|🐧| ? [📙](https://emojipedia.org/penguin/)             | |                |
-|🕊️| ? [📙](https://emojipedia.org/dove/)             | |                |
-|🦅| ? [📙](https://emojipedia.org/eagle/)             | |                |
-|🦆| ? [📙](https://emojipedia.org/duck/)             | |                |
-|🦢| ? [📙](https://emojipedia.org/swan/)             | |                |
-|🦉| ? [📙](https://emojipedia.org/owl/)             | |                |
-|🦤| ? [📙](https://emojipedia.org/dodo/)             | |                |
-|🪶| ? [📙](https://emojipedia.org/feather/)             | |                |
-|🦩| ? [📙](https://emojipedia.org/flamingo/)             | |                |
-|🦚| ? [📙](https://emojipedia.org/peacock/)             | |                |
-|🦜| ? [📙](https://emojipedia.org/parrot/)             | |                |
-|🐸| ? [📙](https://emojipedia.org/frog/)             | |                |
-|🐊| ? [📙](https://emojipedia.org/crocodile/)             | |                |
-|🐢| ? [📙](https://emojipedia.org/turtle/)             | |                |
-|🦎| ? [📙](https://emojipedia.org/lizard/)             | |                |
-|🐍| ? [📙](https://emojipedia.org/snake/)             | |                |
-|🐲| ? [📙](https://emojipedia.org/dragon-face/)             | |                |
-|🐉| ? [📙](https://emojipedia.org/dragon/)             | |                |
-|🦕| ? [📙](https://emojipedia.org/sauropod/)             | |                |
-|🦖| ? [📙](https://emojipedia.org/t-rex/)             | |                |
-|🐳| ? [📙](https://emojipedia.org/spouting-whale/)             | |                |
-|🐋| ? [📙](https://emojipedia.org/whale/)             | |                |
-|🐬| ? [📙](https://emojipedia.org/dolphin/)             | |                |
-|🦭| ? [📙](https://emojipedia.org/seal/)             | |                |
-|🐟| ? [📙](https://emojipedia.org/fish/)             | |                |
-|🐠| ? [📙](https://emojipedia.org/tropical-fish/)             | |                |
-|🐡| ? [📙](https://emojipedia.org/blowfish/)             | |                |
-|🦈| ? [📙](https://emojipedia.org/shark/)             | |                |
-|🐙| ? [📙](https://emojipedia.org/octopus/)             | |                |
-|🐚| ? [📙](https://emojipedia.org/spiral-shell/)             | |                |
-|🐌| ? [📙](https://emojipedia.org/snail/)             | |                |
-|🦋| ? [📙](https://emojipedia.org/butterfly/)             | |                |
-|🐛| ? [📙](https://emojipedia.org/bug/)             | |                |
-|🐜| ? [📙](https://emojipedia.org/ant/)             | |                |
-|🐝| ? [📙](https://emojipedia.org/honeybee/)             | |                |
-|🪲| ? [📙](https://emojipedia.org/beetle/)             | |                |
-|🐞| ? [📙](https://emojipedia.org/lady-beetle/)             | |                |
-|🦗| ? [📙](https://emojipedia.org/cricket/)             | |                |
-|🪳| ? [📙](https://emojipedia.org/cockroach/)             | |                |
-|🕷️| ? [📙](https://emojipedia.org/spider/)             | |                |
-|🕸️| ? [📙](https://emojipedia.org/spider-web/)             | |                |
-|🦂| ? [📙](https://emojipedia.org/scorpion/)             | |                |
-|🦟| ? [📙](https://emojipedia.org/mosquito/)             | |                |
-|🪰| ? [📙](https://emojipedia.org/fly/)             | |                |
-|🪱| ? [📙](https://emojipedia.org/worm/)             | |                |
-|🦠| ? [📙](https://emojipedia.org/microbe/)             | |                |
-|💐| ? [📙](https://emojipedia.org/bouquet/)             | |                |
-|🌸| ? [📙](https://emojipedia.org/cherry-blossom/)             | |                |
-|💮| ? [📙](https://emojipedia.org/white-flower/)             | |                |
-|🏵️| ? [📙](https://emojipedia.org/rosette/)             | |                |
-|🌹| ? [📙](https://emojipedia.org/rose/)             | |                |
-|🥀| ? [📙](https://emojipedia.org/wilted-flower/)             | |                |
-|🌺| ? [📙](https://emojipedia.org/hibiscus/)             | |                |
-|🌻| ? [📙](https://emojipedia.org/sunflower/)             | |                |
-|🌼| ? [📙](https://emojipedia.org/blossom/)             | |                |
-|🌷| ? [📙](https://emojipedia.org/tulip/)             | |                |
-|🌱| ? [📙](https://emojipedia.org/seedling/)             | |                |
-|🪴| ? [📙](https://emojipedia.org/potted-plant/)             | |                |
-|🌲| ? [📙](https://emojipedia.org/evergreen-tree/)             | |                |
-|🌳| ? [📙](https://emojipedia.org/deciduous-tree/)             | |                |
-|🌴| ? [📙](https://emojipedia.org/palm-tree/)             | |                |
-|🌵| ? [📙](https://emojipedia.org/cactus/)             | |                |
-|🌾| ? [📙](https://emojipedia.org/sheaf-of-rice/)             | |                |
-|🌿| ? [📙](https://emojipedia.org/herb/)             | |                |
-|☘️| ? [📙](https://emojipedia.org/shamrock/)             | |                |
-|🍀| ? [📙](https://emojipedia.org/four-leaf-clover/)             | |                |
-|🍁| ? [📙](https://emojipedia.org/maple-leaf/)             | |                |
-|🍂| ? [📙](https://emojipedia.org/fallen-leaf/)             | |                |
-|🍃| ? [📙](https://emojipedia.org/leaf-fluttering-in-wind/)             | |                |
-|🍄| ? [📙](https://emojipedia.org/mushroom/)             | |                |
-|🌰| ? [📙](https://emojipedia.org/chestnut/)             | |                |
-|🦀| ? [📙](https://emojipedia.org/crab/)             | |                |
-|🦞| ? [📙](https://emojipedia.org/lobster/)             | |                |
-|🦐| ? [📙](https://emojipedia.org/shrimp/)             | |                |
-|🦑| ? [📙](https://emojipedia.org/squid/)             | |                |
-|🌍| ? [📙](https://emojipedia.org/globe-showing-europe-africa/)             | |                |
-|🌎| ? [📙](https://emojipedia.org/globe-showing-americas/)             | |                |
-|🌏| ? [📙](https://emojipedia.org/globe-showing-asia-australia/)             | |                |
-|🌐| ? [📙](https://emojipedia.org/globe-with-meridians/)             | |                |
-|🪨| ? [📙](https://emojipedia.org/rock/)             | |                |
-|🌑| ? [📙](https://emojipedia.org/new-moon/)             | |                |
-|🌒| ? [📙](https://emojipedia.org/waxing-crescent-moon/)             | |                |
-|🌓| ? [📙](https://emojipedia.org/first-quarter-moon/)             | |                |
-|🌔| ? [📙](https://emojipedia.org/waxing-gibbous-moon/)             | |                |
-|🌕| ? [📙](https://emojipedia.org/full-moon/)             | |                |
-|🌖| ? [📙](https://emojipedia.org/waning-gibbous-moon/)             | |                |
-|🌗| ? [📙](https://emojipedia.org/last-quarter-moon/)             | |                |
-|🌘| ? [📙](https://emojipedia.org/waning-crescent-moon/)             | |                |
-|🌙| ? [📙](https://emojipedia.org/crescent-moon/)             | |                |
-|🌚| ? [📙](https://emojipedia.org/new-moon-face/)             | |                |
-|🌛| ? [📙](https://emojipedia.org/first-quarter-moon-face/)             | |                |
-|🌜| ? [📙](https://emojipedia.org/last-quarter-moon-face/)             | |                |
-|☀️| ? [📙](https://emojipedia.org/sun/)             | |                |
-|🌝| ? [📙](https://emojipedia.org/full-moon-face/)             | |                |
-|🌞| ? [📙](https://emojipedia.org/sun-with-face/)             | |                |
-|⭐| ? [📙](https://emojipedia.org/star/)             | |                |
-|🌟| ? [📙](https://emojipedia.org/glowing-star/)             | |                |
-|🌠| ? [📙](https://emojipedia.org/shooting-star/)             | |                |
-|☁️| ? [📙](https://emojipedia.org/cloud/)             | |                |
-|⛅| ? [📙](https://emojipedia.org/sun-behind-cloud/)             | |                |
-|⛈️| ? [📙](https://emojipedia.org/cloud-with-lightning-and-rain/)             | |                |
-|🌤️| ? [📙](https://emojipedia.org/sun-behind-small-cloud/)             | |                |
-|🌥️| ? [📙](https://emojipedia.org/sun-behind-large-cloud/)             | |                |
-|🌦️| ? [📙](https://emojipedia.org/sun-behind-rain-cloud/)             | |                |
-|🌧️| ? [📙](https://emojipedia.org/cloud-with-rain/)             | |                |
-|🌨️| ? [📙](https://emojipedia.org/cloud-with-snow/)             | |                |
-|🌩️| ? [📙](https://emojipedia.org/cloud-with-lightning/)             | |                |
-|🌪️| ? [📙](https://emojipedia.org/tornado/)             | |                |
-|🌫️| ? [📙](https://emojipedia.org/fog/)             | |                |
-|🌬️| ? [📙](https://emojipedia.org/wind-face/)             | |                |
-|🌈| ? [📙](https://emojipedia.org/rainbow/)             | |                |
-|☂️| ? [📙](https://emojipedia.org/umbrella/)             | |                |
-|☔| ? [📙](https://emojipedia.org/umbrella-with-rain-drops/)             | |                |
-|⚡| ? [📙](https://emojipedia.org/high-voltage/)             | |                |
-|❄️| ? [📙](https://emojipedia.org/snowflake/)             | |                |
-|☃️| ? [📙](https://emojipedia.org/snowman/)             | |                |
-|⛄| ? [📙](https://emojipedia.org/snowman-without-snow/)             | |                |
-|☄️| ? [📙](https://emojipedia.org/comet/)             | |                |
-|🔥| ? [📙](https://emojipedia.org/fire/)             | |                |
-|💧| ? [📙](https://emojipedia.org/droplet/)             | |                |
-|🌊| ? [📙](https://emojipedia.org/water-wave/)             | |                |
-|🎄| ? [📙](https://emojipedia.org/christmas-tree/)             | |                |
-|✨| ? [📙](https://emojipedia.org/sparkles/)             | |                |
-|🎋| ? [📙](https://emojipedia.org/tanabata-tree/)             | |                |
-|🎍| ? [📙](https://emojipedia.org/pine-decoration/)             | |                |
+| EMOJI |                            WIKI                            |                                          screen                                           |                       English audio                        |                          German audio                           |
+|:-----:|:----------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:----------------------------------------------------------:|:---------------------------------------------------------------:|
+|  🐶   |           [📙](https://emojipedia.org/dog-face)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🐶.png) [🟢](screenshots/OS/1.1/white/🐶.png)    |               [Dog](audio/2024-07/en/🐶.mp3)               |                 [Hund](audio/2024-07/de/🐶.mp3)                 |
+|  🐱   |           [📙](https://emojipedia.org/cat-face)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🐱.png) [🟢](screenshots/OS/1.1/white/🐱.png)    |               [Cat](audio/2024-07/en/🐱.mp3)               |                [Katze](audio/2024-07/de/🐱.mp3)                 |
+|  🐭   |          [📙](https://emojipedia.org/mouse-face)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🐭.png) [🟢](screenshots/OS/1.1/white/🐭.png)    |              [Mouse](audio/2024-07/en/🐭.mp3)              |                 [Maus](audio/2024-07/de/🐭.mp3)                 |
+|  🐹   |            [📙](https://emojipedia.org/hamster)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🐹.png) [🟢](screenshots/OS/1.1/white/🐹.png)    |             [Hamster](audio/2024-07/en/🐹.mp3)             |               [Hamster](audio/2024-07/de/🐹.mp3)                |
+|  🐰   |          [📙](https://emojipedia.org/rabbit-face)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🐰.png) [🟢](screenshots/OS/1.1/white/🐰.png)    |             [Rabbit](audio/2024-07/en/🐰.mp3)              |                 [Hase](audio/2024-07/de/🐰.mp3)                 |
+|  🦊   |              [📙](https://emojipedia.org/fox)              |    [🟢](screenshots/FireOS/7.5.6.3/white/🦊.png) [🟢](screenshots/OS/1.1/white/🦊.png)    |               [Fox](audio/2024-07/en/🦊.mp3)               |                  [-](audio/2024-07/de/🦊.mp3)                   |
+|  🐻   |             [📙](https://emojipedia.org/bear)              |    [🟢](screenshots/FireOS/7.5.6.3/white/🐻.png) [🟢](screenshots/OS/1.1/white/🐻.png)    |              [bear](audio/2024-07/en/🐻.mp3)               |                 [Bia](audio/2024-07/de/🐻.mp3)                  |
+|  🐼   |             [📙](https://emojipedia.org/panda)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🐼.png) [🟢](screenshots/OS/1.1/white/🐼.png)    |              [Panda](audio/2024-07/en/🐼.mp3)              |                [Panda](audio/2024-07/de/🐼.mp3)                 |
+| 🐻‍❄️ |          [📙](https://emojipedia.org/polar-bear)           | [🟡](screenshots/FireOS/7.5.6.3/white/🐻‍❄️.png) [🟢](screenshots/OS/1.1/white/🐻‍❄️.png) |       [Bear, Snowflake](audio/2024-07/en/🐻‍❄️.mp3)        |         [Bär, Schneeflocke](audio/2024-07/de/🐻‍❄️.mp3)         |
+|  🐨   |             [📙](https://emojipedia.org/koala)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🐨.png) [🟢](screenshots/OS/1.1/white/🐨.png)    |              [Koala](audio/2024-07/en/🐨.mp3)              |                [Koala](audio/2024-07/de/🐨.mp3)                 |
+|  🐯   |          [📙](https://emojipedia.org/tiger-face)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🐯.png) [🟢](screenshots/OS/1.1/white/🐯.png)    |              [Tiger](audio/2024-07/en/🐯.mp3)              |                [Tiger](audio/2024-07/de/🐯.mp3)                 |
+|  🦁   |             [📙](https://emojipedia.org/lion)              |    [🟢](screenshots/FireOS/7.5.6.3/white/🦁.png) [🟢](screenshots/OS/1.1/white/🦁.png)    |              [Lion](audio/2024-07/en/🦁.mp3)               |             [Löwengesicht](audio/2024-07/de/🦁.mp3)             |
+|  🐮   |           [📙](https://emojipedia.org/cow-face)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🐮.png) [🟢](screenshots/OS/1.1/white/🐮.png)    |              [Cow.](audio/2024-07/en/🐮.mp3)               |                [Cool.](audio/2024-07/de/🐮.mp3)                 |
+|  🐷   |           [📙](https://emojipedia.org/pig-face)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🐷.png) [🟢](screenshots/OS/1.1/white/🐷.png)    |               [pig](audio/2024-07/en/🐷.mp3)               |               [Schwein](audio/2024-07/de/🐷.mp3)                |
+|  🐽   |           [📙](https://emojipedia.org/pig-nose)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🐽.png) [🟢](screenshots/OS/1.1/white/🐽.png)    |            [Pig nose](audio/2024-07/en/🐽.mp3)             |               [Brüssel](audio/2024-07/de/🐽.mp3)                |
+|  🐸   |             [📙](https://emojipedia.org/frog)              |    [🟢](screenshots/FireOS/7.5.6.3/white/🐸.png) [🟢](screenshots/OS/1.1/white/🐸.png)    |              [frog](audio/2024-07/en/🐸.mp3)               |                [Frosch](audio/2024-07/de/🐸.mp3)                |
+|  🐵   |          [📙](https://emojipedia.org/monkey-face)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🐵.png) [🟢](screenshots/OS/1.1/white/🐵.png)    |             [Monkey](audio/2024-07/en/🐵.mp3)              |                 [Affe](audio/2024-07/de/🐵.mp3)                 |
+|  🙈   |      [📙](https://emojipedia.org/see-no-evil-monkey)       |    [🟢](screenshots/FireOS/7.5.6.3/white/🙈.png) [🟢](screenshots/OS/1.1/white/🙈.png)    |       [See no evil monkey.](audio/2024-07/en/🙈.mp3)       |      [Augen verschließender Affe](audio/2024-07/de/🙈.mp3)      |
+|  🙉   |      [📙](https://emojipedia.org/hear-no-evil-monkey)      |    [🟢](screenshots/FireOS/7.5.6.3/white/🙉.png) [🟢](screenshots/OS/1.1/white/🙉.png)    |      [Hear no evil monkey.](audio/2024-07/en/🙉.mp3)       |      [Ohren verschließender Affe](audio/2024-07/de/🙉.mp3)      |
+|  🙊   |     [📙](https://emojipedia.org/speak-no-evil-monkey)      |    [🟢](screenshots/FireOS/7.5.6.3/white/🙊.png) [🟢](screenshots/OS/1.1/white/🙊.png)    |      [Speak no evil monkey.](audio/2024-07/en/🙊.mp3)      |      [Mund verschließender Affe](audio/2024-07/de/🙊.mp3)       |
+|  🐒   |            [📙](https://emojipedia.org/monkey)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🐒.png) [🟢](screenshots/OS/1.1/white/🐒.png)    |             [Monkey](audio/2024-07/en/🐒.mp3)              |                 [Affe](audio/2024-07/de/🐒.mp3)                 |
+|  🐔   |            [📙](https://emojipedia.org/chicken)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🐔.png) [🟢](screenshots/OS/1.1/white/🐔.png)    |             [Chicken](audio/2024-07/en/🐔.mp3)             |                 [Huhn](audio/2024-07/de/🐔.mp3)                 |
+|  🐧   |            [📙](https://emojipedia.org/penguin)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🐧.png) [🟢](screenshots/OS/1.1/white/🐧.png)    |             [Penguin](audio/2024-07/en/🐧.mp3)             |               [Pinguin](audio/2024-07/de/🐧.mp3)                |
+|  🐦   |             [📙](https://emojipedia.org/bird)              |    [🟢](screenshots/FireOS/7.5.6.3/white/🐦.png) [🟢](screenshots/OS/1.1/white/🐦.png)    |              [Bird](audio/2024-07/en/🐦.mp3)               |                [Vogel](audio/2024-07/de/🐦.mp3)                 |
+|  🐤   |          [📙](https://emojipedia.org/baby-chick)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🐤.png) [🟢](screenshots/OS/1.1/white/🐤.png)    |           [Baby chick](audio/2024-07/en/🐤.mp3)            |                [Küken](audio/2024-07/de/🐤.mp3)                 |
+|  🐣   |        [📙](https://emojipedia.org/hatching-chick)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🐣.png) [🟢](screenshots/OS/1.1/white/🐣.png)    |         [Hatching chick](audio/2024-07/en/🐣.mp3)          |        [Ausschlüpfendes Küken](audio/2024-07/de/🐣.mp3)         |
+|  🐥   |    [📙](https://emojipedia.org/front-facing-baby-chick)    |    [🟢](screenshots/FireOS/7.5.6.3/white/🐥.png) [🟢](screenshots/OS/1.1/white/🐥.png)    |     [Front-facing baby chick](audio/2024-07/en/🐥.mp3)     |           [Kücken von vorn](audio/2024-07/de/🐥.mp3)            |
+|  🪿   |             [📙](https://emojipedia.org/goose)             |    [🔴](screenshots/FireOS/7.5.6.3/white/🪿.png) [🔴](screenshots/OS/1.1/white/🪿.png)    |                [-](audio/2024-07/en/🪿.mp3)                |                  [-](audio/2024-07/de/🪿.mp3)                   |
+|  🦆   |             [📙](https://emojipedia.org/duck)              |    [🟢](screenshots/FireOS/7.5.6.3/white/🦆.png) [🟢](screenshots/OS/1.1/white/🦆.png)    |              [Duck.](audio/2024-07/en/🦆.mp3)              |                  [-](audio/2024-07/de/🦆.mp3)                   |
+| 🐦‍⬛  |          [📙](https://emojipedia.org/black-bird)           |  [🟡](screenshots/FireOS/7.5.6.3/white/🐦‍⬛.png) [🟡](screenshots/OS/1.1/white/🐦‍⬛.png)  |    [Bird, Big Black Square](audio/2024-07/en/🐦‍⬛.mp3)     |  [Vogel, großes schwarzes Quadrat](audio/2024-07/de/🐦‍⬛.mp3)   |
+|  🦅   |             [📙](https://emojipedia.org/eagle)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🦅.png) [🟢](screenshots/OS/1.1/white/🦅.png)    |              [Eagle](audio/2024-07/en/🦅.mp3)              |                  [-](audio/2024-07/de/🦅.mp3)                   |
+|  🦉   |              [📙](https://emojipedia.org/owl)              |    [🟢](screenshots/FireOS/7.5.6.3/white/🦉.png) [🟢](screenshots/OS/1.1/white/🦉.png)    |               [Owl](audio/2024-07/en/🦉.mp3)               |                  [-](audio/2024-07/de/🦉.mp3)                   |
+|  🦇   |              [📙](https://emojipedia.org/bat)              |    [🟢](screenshots/FireOS/7.5.6.3/white/🦇.png) [🟢](screenshots/OS/1.1/white/🦇.png)    |               [Bat](audio/2024-07/en/🦇.mp3)               |                  [-](audio/2024-07/de/🦇.mp3)                   |
+|  🐺   |             [📙](https://emojipedia.org/wolf)              |    [🟢](screenshots/FireOS/7.5.6.3/white/🐺.png) [🟢](screenshots/OS/1.1/white/🐺.png)    |              [Wolf](audio/2024-07/en/🐺.mp3)               |             [Wolf-Gesicht](audio/2024-07/de/🐺.mp3)             |
+|  🐗   |             [📙](https://emojipedia.org/boar)              |    [🟢](screenshots/FireOS/7.5.6.3/white/🐗.png) [🟢](screenshots/OS/1.1/white/🐗.png)    |               [4.](audio/2024-07/en/🐗.mp3)                |             [Wildschwein](audio/2024-07/de/🐗.mp3)              |
+|  🐴   |          [📙](https://emojipedia.org/horse-face)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🐴.png) [🟢](screenshots/OS/1.1/white/🐴.png)    |              [Horse](audio/2024-07/en/🐴.mp3)              |                  [4.](audio/2024-07/de/🐴.mp3)                  |
+|  🦄   |            [📙](https://emojipedia.org/unicorn)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🦄.png) [🟢](screenshots/OS/1.1/white/🦄.png)    |             [Unicorn](audio/2024-07/en/🦄.mp3)             |               [Ein Horn](audio/2024-07/de/🦄.mp3)               |
+|  🫎   |             [📙](https://emojipedia.org/moose)             |    [🔴](screenshots/FireOS/7.5.6.3/white/🫎.png) [🔴](screenshots/OS/1.1/white/🫎.png)    |                [-](audio/2024-07/en/🫎.mp3)                |                  [-](audio/2024-07/de/🫎.mp3)                   |
+|  🐝   |           [📙](https://emojipedia.org/honeybee)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🐝.png) [🟢](screenshots/OS/1.1/white/🐝.png)    |            [Honeybee](audio/2024-07/en/🐝.mp3)             |                [Bienen](audio/2024-07/de/🐝.mp3)                |
+|  🪱   |             [📙](https://emojipedia.org/worm)              |    [🔴](screenshots/FireOS/7.5.6.3/white/🪱.png) [🟢](screenshots/OS/1.1/white/🪱.png)    |                [-](audio/2024-07/en/🪱.mp3)                |                  [-](audio/2024-07/de/🪱.mp3)                   |
+|  🐛   |              [📙](https://emojipedia.org/bug)              |    [🟢](screenshots/FireOS/7.5.6.3/white/🐛.png) [🟢](screenshots/OS/1.1/white/🐛.png)    |            [Centipede](audio/2024-07/en/🐛.mp3)            |              [100 Füßer](audio/2024-07/de/🐛.mp3)               |
+|  🦋   |           [📙](https://emojipedia.org/butterfly)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🦋.png) [🟢](screenshots/OS/1.1/white/🦋.png)    |            [Butterfly](audio/2024-07/en/🦋.mp3)            |                  [-](audio/2024-07/de/🦋.mp3)                   |
+|  🐌   |             [📙](https://emojipedia.org/snail)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🐌.png) [🟢](screenshots/OS/1.1/white/🐌.png)    |              [Snail](audio/2024-07/en/🐌.mp3)              |               [Schnecke](audio/2024-07/de/🐌.mp3)               |
+|  🐞   |          [📙](https://emojipedia.org/lady-beetle)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🐞.png) [🟢](screenshots/OS/1.1/white/🐞.png)    |             [Ladybug](audio/2024-07/en/🐞.mp3)             |             [Marienkäfer](audio/2024-07/de/🐞.mp3)              |
+|  🐜   |              [📙](https://emojipedia.org/ant)              |    [🟢](screenshots/FireOS/7.5.6.3/white/🐜.png) [🟢](screenshots/OS/1.1/white/🐜.png)    |              [Aunt](audio/2024-07/en/🐜.mp3)               |                [Ameise](audio/2024-07/de/🐜.mp3)                |
+|  🪰   |              [📙](https://emojipedia.org/fly)              |    [🔴](screenshots/FireOS/7.5.6.3/white/🪰.png) [🟢](screenshots/OS/1.1/white/🪰.png)    |                [-](audio/2024-07/en/🪰.mp3)                |                  [-](audio/2024-07/de/🪰.mp3)                   |
+|  🪲   |            [📙](https://emojipedia.org/beetle)             |    [🔴](screenshots/FireOS/7.5.6.3/white/🪲.png) [🟢](screenshots/OS/1.1/white/🪲.png)    |                [-](audio/2024-07/en/🪲.mp3)                |                  [-](audio/2024-07/de/🪲.mp3)                   |
+|  🪳   |           [📙](https://emojipedia.org/cockroach)           |    [🔴](screenshots/FireOS/7.5.6.3/white/🪳.png) [🟢](screenshots/OS/1.1/white/🪳.png)    |                [-](audio/2024-07/en/🪳.mp3)                |                  [-](audio/2024-07/de/🪳.mp3)                   |
+|  🦟   |           [📙](https://emojipedia.org/mosquito)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🦟.png) [🟢](screenshots/OS/1.1/white/🦟.png)    |            [Mosquito](audio/2024-07/en/🦟.mp3)             |                  [-](audio/2024-07/de/🦟.mp3)                   |
+|  🦗   |            [📙](https://emojipedia.org/cricket)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🦗.png) [🟢](screenshots/OS/1.1/white/🦗.png)    |             [Cricket](audio/2024-07/en/🦗.mp3)             |                  [-](audio/2024-07/de/🦗.mp3)                   |
+|  🕷   |            [📙](https://emojipedia.org/spider)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🕷.png) [🟢](screenshots/OS/1.1/white/🕷.png)    |             [Spider](audio/2024-07/en/🕷.mp3)              |                [Spinne](audio/2024-07/de/🕷.mp3)                |
+| ️🕸️  |          [📙](https://emojipedia.org/spider-web)           |  [🟢](screenshots/FireOS/7.5.6.3/white/️🕸️.png) [🟢](screenshots/OS/1.1/white/️🕸️.png)  |          [Spider Web](audio/2024-07/en/️🕸️.mp3)           |            [Spinnennetz](audio/2024-07/de/️🕸️.mp3)             |
+|  🦂   |           [📙](https://emojipedia.org/scorpion)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🦂.png) [🟢](screenshots/OS/1.1/white/🦂.png)    |            [Scorpion](audio/2024-07/en/🦂.mp3)             |               [Skorpion](audio/2024-07/de/🦂.mp3)               |
+|  🐢   |            [📙](https://emojipedia.org/turtle)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🐢.png) [🟢](screenshots/OS/1.1/white/🐢.png)    |             [Turtle](audio/2024-07/en/🐢.mp3)              |             [Schildkröte](audio/2024-07/de/🐢.mp3)              |
+|  🐍   |             [📙](https://emojipedia.org/snake)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🐍.png) [🟢](screenshots/OS/1.1/white/🐍.png)    |              [Snake](audio/2024-07/en/🐍.mp3)              |               [Schlange](audio/2024-07/de/🐍.mp3)               |
+|  🦎   |            [📙](https://emojipedia.org/lizard)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🦎.png) [🟢](screenshots/OS/1.1/white/🦎.png)    |           [Salamander](audio/2024-07/en/🦎.mp3)            |                  [-](audio/2024-07/de/🦎.mp3)                   |
+|  🦖   |             [📙](https://emojipedia.org/t-rex)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🦖.png) [🟢](screenshots/OS/1.1/white/🦖.png)    |              [T-Rex](audio/2024-07/en/🦖.mp3)              |                  [-](audio/2024-07/de/🦖.mp3)                   |
+|  🦕   |           [📙](https://emojipedia.org/sauropod)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🦕.png) [🟢](screenshots/OS/1.1/white/🦕.png)    |            [sauropod](audio/2024-07/en/🦕.mp3)             |                  [-](audio/2024-07/de/🦕.mp3)                   |
+|  🐙   |            [📙](https://emojipedia.org/octopus)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🐙.png) [🟢](screenshots/OS/1.1/white/🐙.png)    |             [Octopus](audio/2024-07/en/🐙.mp3)             |                [Krake](audio/2024-07/de/🐙.mp3)                 |
+|  🦑   |             [📙](https://emojipedia.org/squid)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🦑.png) [🟢](screenshots/OS/1.1/white/🦑.png)    |             [Octopus](audio/2024-07/en/🦑.mp3)             |                  [-](audio/2024-07/de/🦑.mp3)                   |
+|  🪼   |           [📙](https://emojipedia.org/jellyfish)           |    [🔴](screenshots/FireOS/7.5.6.3/white/🪼.png) [🔴](screenshots/OS/1.1/white/🪼.png)    |                [-](audio/2024-07/en/🪼.mp3)                |                  [-](audio/2024-07/de/🪼.mp3)                   |
+|  🦐   |            [📙](https://emojipedia.org/shrimp)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🦐.png) [🟢](screenshots/OS/1.1/white/🦐.png)    |             [Shrimp](audio/2024-07/en/🦐.mp3)              |                  [-](audio/2024-07/de/🦐.mp3)                   |
+|  🦞   |            [📙](https://emojipedia.org/lobster)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🦞.png) [🟢](screenshots/OS/1.1/white/🦞.png)    |             [Lobster](audio/2024-07/en/🦞.mp3)             |                  [-](audio/2024-07/de/🦞.mp3)                   |
+|  🦀   |             [📙](https://emojipedia.org/crab)              |    [🟢](screenshots/FireOS/7.5.6.3/white/🦀.png) [🟢](screenshots/OS/1.1/white/🦀.png)    |              [Crab](audio/2024-07/en/🦀.mp3)               |                [Krabbe](audio/2024-07/de/🦀.mp3)                |
+|  🐡   |           [📙](https://emojipedia.org/blowfish)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🐡.png) [🟢](screenshots/OS/1.1/white/🐡.png)    |            [Blowfish](audio/2024-07/en/🐡.mp3)             |              [Igelfisch](audio/2024-07/de/🐡.mp3)               |
+|  🐠   |         [📙](https://emojipedia.org/tropical-fish)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🐠.png) [🟢](screenshots/OS/1.1/white/🐠.png)    |          [Tropical fish](audio/2024-07/en/🐠.mp3)          |             [Tropenfisch](audio/2024-07/de/🐠.mp3)              |
+|  🐟   |             [📙](https://emojipedia.org/fish)              |    [🟢](screenshots/FireOS/7.5.6.3/white/🐟.png) [🟢](screenshots/OS/1.1/white/🐟.png)    |              [Fish](audio/2024-07/en/🐟.mp3)               |                [Fisch](audio/2024-07/de/🐟.mp3)                 |
+|  🐬   |            [📙](https://emojipedia.org/dolphin)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🐬.png) [🟢](screenshots/OS/1.1/white/🐬.png)    |             [Dolphin](audio/2024-07/en/🐬.mp3)             |                [Delfin](audio/2024-07/de/🐬.mp3)                |
+|  🐳   |        [📙](https://emojipedia.org/spouting-whale)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🐳.png) [🟢](screenshots/OS/1.1/white/🐳.png)    |         [Spouting whale](audio/2024-07/en/🐳.mp3)          |           [Spritzender Wal](audio/2024-07/de/🐳.mp3)            |
+|  🐋   |             [📙](https://emojipedia.org/whale)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🐋.png) [🟢](screenshots/OS/1.1/white/🐋.png)    |              [whale](audio/2024-07/en/🐋.mp3)              |                 [Wahl](audio/2024-07/de/🐋.mp3)                 |
+|  🦈   |             [📙](https://emojipedia.org/shark)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🦈.png) [🟢](screenshots/OS/1.1/white/🦈.png)    |             [Dolphin](audio/2024-07/en/🦈.mp3)             |                  [-](audio/2024-07/de/🦈.mp3)                   |
+|  🦭   |             [📙](https://emojipedia.org/seal)              |    [🔴](screenshots/FireOS/7.5.6.3/white/🦭.png) [🟢](screenshots/OS/1.1/white/🦭.png)    |                [-](audio/2024-07/en/🦭.mp3)                |                  [-](audio/2024-07/de/🦭.mp3)                   |
+|  🐊   |           [📙](https://emojipedia.org/crocodile)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🐊.png) [🟢](screenshots/OS/1.1/white/🐊.png)    |            [Crocodile](audio/2024-07/en/🐊.mp3)            |               [Krokodil](audio/2024-07/de/🐊.mp3)               |
+|  🐅   |             [📙](https://emojipedia.org/tiger)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🐅.png) [🟢](screenshots/OS/1.1/white/🐅.png)    |              [Tiger](audio/2024-07/en/🐅.mp3)              |                [Tiger](audio/2024-07/de/🐅.mp3)                 |
+|  🐆   |            [📙](https://emojipedia.org/leopard)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🐆.png) [🟢](screenshots/OS/1.1/white/🐆.png)    |             [Leopard](audio/2024-07/en/🐆.mp3)             |               [Leopard](audio/2024-07/de/🐆.mp3)                |
+|  🦓   |             [📙](https://emojipedia.org/zebra)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🦓.png) [🟢](screenshots/OS/1.1/white/🦓.png)    |              [Zebra](audio/2024-07/en/🦓.mp3)              |                  [-](audio/2024-07/de/🦓.mp3)                   |
+|  🦍   |            [📙](https://emojipedia.org/gorilla)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🦍.png) [🟢](screenshots/OS/1.1/white/🦍.png)    |             [Gorilla](audio/2024-07/en/🦍.mp3)             |                  [-](audio/2024-07/de/🦍.mp3)                   |
+|  🦧   |           [📙](https://emojipedia.org/orangutan)           |    [🔴](screenshots/FireOS/7.5.6.3/white/🦧.png) [🟢](screenshots/OS/1.1/white/🦧.png)    |                [-](audio/2024-07/en/🦧.mp3)                |                  [-](audio/2024-07/de/🦧.mp3)                   |
+|  🦣   |            [📙](https://emojipedia.org/mammoth)            |    [🔴](screenshots/FireOS/7.5.6.3/white/🦣.png) [🟢](screenshots/OS/1.1/white/🦣.png)    |                [-](audio/2024-07/en/🦣.mp3)                |                  [-](audio/2024-07/de/🦣.mp3)                   |
+|  🐘   |           [📙](https://emojipedia.org/elephant)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🐘.png) [🟢](screenshots/OS/1.1/white/🐘.png)    |            [Elephant](audio/2024-07/en/🐘.mp3)             |               [Elefant](audio/2024-07/de/🐘.mp3)                |
+|  🦛   |         [📙](https://emojipedia.org/hippopotamus)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🦛.png) [🟢](screenshots/OS/1.1/white/🦛.png)    |          [Hippopotamus](audio/2024-07/en/🦛.mp3)           |                  [-](audio/2024-07/de/🦛.mp3)                   |
+|  🦏   |          [📙](https://emojipedia.org/rhinoceros)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🦏.png) [🟢](screenshots/OS/1.1/white/🦏.png)    |           [Rhinoceros](audio/2024-07/en/🦏.mp3)            |                  [-](audio/2024-07/de/🦏.mp3)                   |
+|  🐪   |             [📙](https://emojipedia.org/camel)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🐪.png) [🟢](screenshots/OS/1.1/white/🐪.png)    |              [Camel](audio/2024-07/en/🐪.mp3)              |                [Kamel](audio/2024-07/de/🐪.mp3)                 |
+|  🐫   |        [📙](https://emojipedia.org/two-hump-camel)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🐫.png) [🟢](screenshots/OS/1.1/white/🐫.png)    |              [Camel](audio/2024-07/en/🐫.mp3)              |                [Kamel](audio/2024-07/de/🐫.mp3)                 |
+|  🦒   |            [📙](https://emojipedia.org/giraffe)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🦒.png) [🟢](screenshots/OS/1.1/white/🦒.png)    |             [Giraffe](audio/2024-07/en/🦒.mp3)             |                  [-](audio/2024-07/de/🦒.mp3)                   |
+|  🦘   |           [📙](https://emojipedia.org/kangaroo)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🦘.png) [🟢](screenshots/OS/1.1/white/🦘.png)    |            [Kangaroo](audio/2024-07/en/🦘.mp3)             |                  [-](audio/2024-07/de/🦘.mp3)                   |
+|  🦬   |             [📙](https://emojipedia.org/bison)             |    [🔴](screenshots/FireOS/7.5.6.3/white/🦬.png) [🟢](screenshots/OS/1.1/white/🦬.png)    |                [-](audio/2024-07/en/🦬.mp3)                |                  [-](audio/2024-07/de/🦬.mp3)                   |
+|  🐃   |         [📙](https://emojipedia.org/water-buffalo)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🐃.png) [🟢](screenshots/OS/1.1/white/🐃.png)    |          [Water buffalo](audio/2024-07/en/🐃.mp3)          |             [Wasserbüffel](audio/2024-07/de/🐃.mp3)             |
+|  🐂   |              [📙](https://emojipedia.org/ox)               |    [🟢](screenshots/FireOS/7.5.6.3/white/🐂.png) [🟢](screenshots/OS/1.1/white/🐂.png)    |               [Ox](audio/2024-07/en/🐂.mp3)                |                [Ochse](audio/2024-07/de/🐂.mp3)                 |
+|  🐄   |              [📙](https://emojipedia.org/cow)              |    [🟢](screenshots/FireOS/7.5.6.3/white/🐄.png) [🟢](screenshots/OS/1.1/white/🐄.png)    |              [Cow.](audio/2024-07/en/🐄.mp3)               |                [Cool.](audio/2024-07/de/🐄.mp3)                 |
+|  🫏   |            [📙](https://emojipedia.org/donkey)             |    [🔴](screenshots/FireOS/7.5.6.3/white/🫏.png) [🔴](screenshots/OS/1.1/white/🫏.png)    |                [-](audio/2024-07/en/🫏.mp3)                |                  [-](audio/2024-07/de/🫏.mp3)                   |
+|  🐎   |             [📙](https://emojipedia.org/horse)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🐎.png) [🟢](screenshots/OS/1.1/white/🐎.png)    |              [Horse](audio/2024-07/en/🐎.mp3)              |                  [4.](audio/2024-07/de/🐎.mp3)                  |
+|  🐖   |              [📙](https://emojipedia.org/pig)              |    [🟢](screenshots/FireOS/7.5.6.3/white/🐖.png) [🟢](screenshots/OS/1.1/white/🐖.png)    |               [pig](audio/2024-07/en/🐖.mp3)               |               [Schwein](audio/2024-07/de/🐖.mp3)                |
+|  🐏   |              [📙](https://emojipedia.org/ram)              |    [🟢](screenshots/FireOS/7.5.6.3/white/🐏.png) [🟢](screenshots/OS/1.1/white/🐏.png)    |               [RAM](audio/2024-07/en/🐏.mp3)               |               [Wieder.](audio/2024-07/de/🐏.mp3)                |
+|  🦙   |             [📙](https://emojipedia.org/llama)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🦙.png) [🟢](screenshots/OS/1.1/white/🦙.png)    |              [llama](audio/2024-07/en/🦙.mp3)              |                  [-](audio/2024-07/de/🦙.mp3)                   |
+|  🐐   |             [📙](https://emojipedia.org/goat)              |    [🟢](screenshots/FireOS/7.5.6.3/white/🐐.png) [🟢](screenshots/OS/1.1/white/🐐.png)    |              [Goat](audio/2024-07/en/🐐.mp3)               |                [Ziege](audio/2024-07/de/🐐.mp3)                 |
+|  🦌   |             [📙](https://emojipedia.org/deer)              |    [🟢](screenshots/FireOS/7.5.6.3/white/🦌.png) [🟢](screenshots/OS/1.1/white/🦌.png)    |              [Dear](audio/2024-07/en/🦌.mp3)               |                  [-](audio/2024-07/de/🦌.mp3)                   |
+|  🐕   |              [📙](https://emojipedia.org/dog)              |    [🟢](screenshots/FireOS/7.5.6.3/white/🐕.png) [🟢](screenshots/OS/1.1/white/🐕.png)    |               [Dog](audio/2024-07/en/🐕.mp3)               |                 [Hund](audio/2024-07/de/🐕.mp3)                 |
+|  🐩   |            [📙](https://emojipedia.org/poodle)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🐩.png) [🟢](screenshots/OS/1.1/white/🐩.png)    |             [poodle](audio/2024-07/en/🐩.mp3)              |                [Pudel](audio/2024-07/de/🐩.mp3)                 |
+|  🦮   |           [📙](https://emojipedia.org/guide-dog)           |    [🔴](screenshots/FireOS/7.5.6.3/white/🦮.png) [🟢](screenshots/OS/1.1/white/🦮.png)    |                [-](audio/2024-07/en/🦮.mp3)                |                  [-](audio/2024-07/de/🦮.mp3)                   |
+| 🐕‍🦺 |          [📙](https://emojipedia.org/service-dog)          | [🔴](screenshots/FireOS/7.5.6.3/white/🐕‍🦺.png) [🟢](screenshots/OS/1.1/white/🐕‍🦺.png) |             [Dog](audio/2024-07/en/🐕‍🦺.mp3)              |               [Hund](audio/2024-07/de/🐕‍🦺.mp3)                |
+|  🐈   |              [📙](https://emojipedia.org/cat)              |    [🟢](screenshots/FireOS/7.5.6.3/white/🐈.png) [🟢](screenshots/OS/1.1/white/🐈.png)    |               [Cat](audio/2024-07/en/🐈.mp3)               |                [Katze](audio/2024-07/de/🐈.mp3)                 |
+| 🐈‍⬛  |           [📙](https://emojipedia.org/black-cat)           |  [🟡](screenshots/FireOS/7.5.6.3/white/🐈‍⬛.png) [🟢](screenshots/OS/1.1/white/🐈‍⬛.png)  |     [Cat, Big Black Square](audio/2024-07/en/🐈‍⬛.mp3)     |  [Katze, großes schwarzes Quadrat.](audio/2024-07/de/🐈‍⬛.mp3)  |
+|  🪶   |            [📙](https://emojipedia.org/feather)            |    [🔴](screenshots/FireOS/7.5.6.3/white/🪶.png) [🟢](screenshots/OS/1.1/white/🪶.png)    |                [-](audio/2024-07/en/🪶.mp3)                |                  [-](audio/2024-07/de/🪶.mp3)                   |
+|  🪽   |             [📙](https://emojipedia.org/wing)              |    [🔴](screenshots/FireOS/7.5.6.3/white/🪽.png) [🔴](screenshots/OS/1.1/white/🪽.png)    |                [-](audio/2024-07/en/🪽.mp3)                |                  [-](audio/2024-07/de/🪽.mp3)                   |
+|  🐓   |            [📙](https://emojipedia.org/rooster)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🐓.png) [🟢](screenshots/OS/1.1/white/🐓.png)    |             [Rooster](audio/2024-07/en/🐓.mp3)             |                 [Hahn](audio/2024-07/de/🐓.mp3)                 |
+|  🦃   |            [📙](https://emojipedia.org/turkey)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🦃.png) [🟢](screenshots/OS/1.1/white/🦃.png)    |             [Turkey](audio/2024-07/en/🦃.mp3)              |                [Türkei](audio/2024-07/de/🦃.mp3)                |
+|  🦤   |             [📙](https://emojipedia.org/dodo)              |    [🔴](screenshots/FireOS/7.5.6.3/white/🦤.png) [🟢](screenshots/OS/1.1/white/🦤.png)    |                [-](audio/2024-07/en/🦤.mp3)                |                  [-](audio/2024-07/de/🦤.mp3)                   |
+|  🦚   |            [📙](https://emojipedia.org/peacock)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🦚.png) [🟢](screenshots/OS/1.1/white/🦚.png)    |             [Peacock](audio/2024-07/en/🦚.mp3)             |                  [-](audio/2024-07/de/🦚.mp3)                   |
+|  🦜   |            [📙](https://emojipedia.org/parrot)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🦜.png) [🟢](screenshots/OS/1.1/white/🦜.png)    |             [Parrot](audio/2024-07/en/🦜.mp3)              |                  [-](audio/2024-07/de/🦜.mp3)                   |
+|  🦢   |             [📙](https://emojipedia.org/swan)              |    [🟢](screenshots/FireOS/7.5.6.3/white/🦢.png) [🟢](screenshots/OS/1.1/white/🦢.png)    |              [Swan](audio/2024-07/en/🦢.mp3)               |                  [-](audio/2024-07/de/🦢.mp3)                   |
+|  🦩   |           [📙](https://emojipedia.org/flamingo)            |    [🔴](screenshots/FireOS/7.5.6.3/white/🦩.png) [🟢](screenshots/OS/1.1/white/🦩.png)    |                [-](audio/2024-07/en/🦩.mp3)                |                  [-](audio/2024-07/de/🦩.mp3)                   |
+|  🕊️  |             [📙](https://emojipedia.org/dove)              |   [🟢](screenshots/FireOS/7.5.6.3/white/🕊️.png) [🟢](screenshots/OS/1.1/white/🕊️.png)   |           [Peace Dove](audio/2024-07/en/🕊️.mp3)           |            [Friedenstaube](audio/2024-07/de/🕊️.mp3)            |
+|  🐇   |            [📙](https://emojipedia.org/rabbit)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🐇.png) [🟢](screenshots/OS/1.1/white/🐇.png)    |             [Rabbit](audio/2024-07/en/🐇.mp3)              |                 [Hase](audio/2024-07/de/🐇.mp3)                 |
+|  🦝   |            [📙](https://emojipedia.org/raccoon)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🦝.png) [🟢](screenshots/OS/1.1/white/🦝.png)    |             [Raccoon](audio/2024-07/en/🦝.mp3)             |                  [-](audio/2024-07/de/🦝.mp3)                   |
+|  🦨   |             [📙](https://emojipedia.org/skunk)             |    [🔴](screenshots/FireOS/7.5.6.3/white/🦨.png) [🟢](screenshots/OS/1.1/white/🦨.png)    |                [-](audio/2024-07/en/🦨.mp3)                |                  [-](audio/2024-07/de/🦨.mp3)                   |
+|  🦡   |            [📙](https://emojipedia.org/badger)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🦡.png) [🟢](screenshots/OS/1.1/white/🦡.png)    |             [Badger](audio/2024-07/en/🦡.mp3)              |                  [-](audio/2024-07/de/🦡.mp3)                   |
+|  🦫   |            [📙](https://emojipedia.org/beaver)             |    [🔴](screenshots/FireOS/7.5.6.3/white/🦫.png) [🟢](screenshots/OS/1.1/white/🦫.png)    |                [-](audio/2024-07/en/🦫.mp3)                |                  [-](audio/2024-07/de/🦫.mp3)                   |
+|  🦦   |             [📙](https://emojipedia.org/otter)             |    [🔴](screenshots/FireOS/7.5.6.3/white/🦦.png) [🟢](screenshots/OS/1.1/white/🦦.png)    |                [-](audio/2024-07/en/🦦.mp3)                |                  [-](audio/2024-07/de/🦦.mp3)                   |
+|  🦥   |             [📙](https://emojipedia.org/sloth)             |    [🔴](screenshots/FireOS/7.5.6.3/white/🦥.png) [🟢](screenshots/OS/1.1/white/🦥.png)    |                [-](audio/2024-07/en/🦥.mp3)                |                  [-](audio/2024-07/de/🦥.mp3)                   |
+|  🐁   |             [📙](https://emojipedia.org/mouse)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🐁.png) [🟢](screenshots/OS/1.1/white/🐁.png)    |              [Mouse](audio/2024-07/en/🐁.mp3)              |                 [Maus](audio/2024-07/de/🐁.mp3)                 |
+|  🐀   |              [📙](https://emojipedia.org/rat)              |    [🟢](screenshots/FireOS/7.5.6.3/white/🐀.png) [🟢](screenshots/OS/1.1/white/🐀.png)    |               [Rat](audio/2024-07/en/🐀.mp3)               |                [Ratte](audio/2024-07/de/🐀.mp3)                 |
+|  🐿️  |           [📙](https://emojipedia.org/chipmunk)            |   [🟢](screenshots/FireOS/7.5.6.3/white/🐿️.png) [🟢](screenshots/OS/1.1/white/🐿️.png)   |            [Chipmunk](audio/2024-07/en/🐿️.mp3)            |              [Chipmunk](audio/2024-07/de/🐿️.mp3)               |
+|  🦔   |           [📙](https://emojipedia.org/hedgehog)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🦔.png) [🟢](screenshots/OS/1.1/white/🦔.png)    |            [Hedgehog](audio/2024-07/en/🦔.mp3)             |                  [-](audio/2024-07/de/🦔.mp3)                   |
+|  🐾   |          [📙](https://emojipedia.org/paw-prints)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🐾.png) [🟢](screenshots/OS/1.1/white/🐾.png)    |           [Paw prints.](audio/2024-07/en/🐾.mp3)           |             [Fotenspuren](audio/2024-07/de/🐾.mp3)              |
+|  🐉   |            [📙](https://emojipedia.org/dragon)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🐉.png) [🟢](screenshots/OS/1.1/white/🐉.png)    |             [Dragon](audio/2024-07/en/🐉.mp3)              |                [Drache](audio/2024-07/de/🐉.mp3)                |
+|  🐲   |          [📙](https://emojipedia.org/dragon-face)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🐲.png) [🟢](screenshots/OS/1.1/white/🐲.png)    |             [Dragon](audio/2024-07/en/🐲.mp3)              |                [Drache](audio/2024-07/de/🐲.mp3)                |
+| 🐦‍🔥 |         [📙](https://emojipedia.org/phoenix-bird)          | [🟡](screenshots/FireOS/7.5.6.3/white/🐦‍🔥.png) [🟡](screenshots/OS/1.1/white/🐦‍🔥.png) |         [Bird, fire.](audio/2024-07/en/🐦‍🔥.mp3)          |           [Vogel, Feuer](audio/2024-07/de/🐦‍🔥.mp3)            |
+|  🌵   |            [📙](https://emojipedia.org/cactus)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🌵.png) [🟢](screenshots/OS/1.1/white/🌵.png)    |             [Cactus](audio/2024-07/en/🌵.mp3)              |                [Cactus](audio/2024-07/de/🌵.mp3)                |
+|  🎄   |        [📙](https://emojipedia.org/christmas-tree)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🎄.png) [🟢](screenshots/OS/1.1/white/🎄.png)    |         [Christmas tree](audio/2024-07/en/🎄.mp3)          |            [Weihnachtsbaum](audio/2024-07/de/🎄.mp3)            |
+|  🌲   |        [📙](https://emojipedia.org/evergreen-tree)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🌲.png) [🟢](screenshots/OS/1.1/white/🌲.png)    |         [Evergreen tree](audio/2024-07/en/🌲.mp3)          |              [Nadelbaum](audio/2024-07/de/🌲.mp3)               |
+|  🌳   |        [📙](https://emojipedia.org/deciduous-tree)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🌳.png) [🟢](screenshots/OS/1.1/white/🌳.png)    |         [Deciduous tree](audio/2024-07/en/🌳.mp3)          |               [Laubbaum](audio/2024-07/de/🌳.mp3)               |
+|  🌴   |           [📙](https://emojipedia.org/palm-tree)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🌴.png) [🟢](screenshots/OS/1.1/white/🌴.png)    |            [Palm tree](audio/2024-07/en/🌴.mp3)            |                [Palme](audio/2024-07/de/🌴.mp3)                 |
+|  🪵   |             [📙](https://emojipedia.org/wood)              |    [🔴](screenshots/FireOS/7.5.6.3/white/🪵.png) [🟢](screenshots/OS/1.1/white/🪵.png)    |                [-](audio/2024-07/en/🪵.mp3)                |                  [-](audio/2024-07/de/🪵.mp3)                   |
+|  🌱   |           [📙](https://emojipedia.org/seedling)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🌱.png) [🟢](screenshots/OS/1.1/white/🌱.png)    |            [Seedling](audio/2024-07/en/🌱.mp3)             |               [Seemling](audio/2024-07/de/🌱.mp3)               |
+|  🌿   |             [📙](https://emojipedia.org/herb)              |    [🟢](screenshots/FireOS/7.5.6.3/white/🌿.png) [🟢](screenshots/OS/1.1/white/🌿.png)    |              [Herb](audio/2024-07/en/🌿.mp3)               |                [Kraut](audio/2024-07/de/🌿.mp3)                 |
+|  ☘️   |           [📙](https://emojipedia.org/shamrock)            |    [🟢](screenshots/FireOS/7.5.6.3/white/☘️.png) [🟢](screenshots/OS/1.1/white/☘️.png)    |            [Shamrock](audio/2024-07/en/☘️.mp3)             |              [Kleeblatt](audio/2024-07/de/☘️.mp3)               |
+|  🍀   |       [📙](https://emojipedia.org/four-leaf-clover)        |    [🟢](screenshots/FireOS/7.5.6.3/white/🍀.png) [🟢](screenshots/OS/1.1/white/🍀.png)    |          [4-leaf clover](audio/2024-07/en/🍀.mp3)          |       [Vierblättriges Kleeblatt](audio/2024-07/de/🍀.mp3)       |
+|  🎍   |        [📙](https://emojipedia.org/pine-decoration)        |    [🟢](screenshots/FireOS/7.5.6.3/white/🎍.png) [🟢](screenshots/OS/1.1/white/🎍.png)    |         [Pine decoration](audio/2024-07/en/🎍.mp3)         |           [Kieferdekoration](audio/2024-07/de/🎍.mp3)           |
+|  🪴   |         [📙](https://emojipedia.org/potted-plant)          |    [🔴](screenshots/FireOS/7.5.6.3/white/🪴.png) [🟢](screenshots/OS/1.1/white/🪴.png)    |                [-](audio/2024-07/en/🪴.mp3)                |                  [-](audio/2024-07/de/🪴.mp3)                   |
+|  🎋   |         [📙](https://emojipedia.org/tanabata-tree)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🎋.png) [🟢](screenshots/OS/1.1/white/🎋.png)    |          [Tanabata Tree](audio/2024-07/en/🎋.mp3)          |            [Tanabata-Baum](audio/2024-07/de/🎋.mp3)             |
+|  🍃   |    [📙](https://emojipedia.org/leaf-fluttering-in-wind)    |    [🟢](screenshots/FireOS/7.5.6.3/white/🍃.png) [🟢](screenshots/OS/1.1/white/🍃.png)    |          [Falling leaf](audio/2024-07/en/🍃.mp3)           |           [Fallendes Blatt](audio/2024-07/de/🍃.mp3)            |
+|  🍂   |          [📙](https://emojipedia.org/fallen-leaf)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🍂.png) [🟢](screenshots/OS/1.1/white/🍂.png)    |           [Fallen leaf](audio/2024-07/en/🍂.mp3)           |           [Gefallenes Blatt](audio/2024-07/de/🍂.mp3)           |
+|  🍁   |          [📙](https://emojipedia.org/maple-leaf)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🍁.png) [🟢](screenshots/OS/1.1/white/🍁.png)    |           [Maple leaf](audio/2024-07/en/🍁.mp3)            |              [Ahornblatt](audio/2024-07/de/🍁.mp3)              |
+|  🪺   |        [📙](https://emojipedia.org/nest-with-eggs)         |    [🔴](screenshots/FireOS/7.5.6.3/white/🪺.png) [🔴](screenshots/OS/1.1/white/🪺.png)    |                [-](audio/2024-07/en/🪺.mp3)                |                  [-](audio/2024-07/de/🪺.mp3)                   |
+|  🪹   |          [📙](https://emojipedia.org/empty-nest)           |    [🔴](screenshots/FireOS/7.5.6.3/white/🪹.png) [🔴](screenshots/OS/1.1/white/🪹.png)    |                [-](audio/2024-07/en/🪹.mp3)                |                  [-](audio/2024-07/de/🪹.mp3)                   |
+|  🍄   |           [📙](https://emojipedia.org/mushroom)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🍄.png) [🟢](screenshots/OS/1.1/white/🍄.png)    |            [Mushroom](audio/2024-07/en/🍄.mp3)             |                 [Pilz](audio/2024-07/de/🍄.mp3)                 |
+| 🍄‍🟫 |        [📙](https://emojipedia.org/brown-mushroom)         | [🔴](screenshots/FireOS/7.5.6.3/white/🍄‍🟫.png) [🟡](screenshots/OS/1.1/white/🍄‍🟫.png) |           [Mushroom](audio/2024-07/en/🍄‍🟫.mp3)           |               [Pils](audio/2024-07/de/🍄‍🟫.mp3)                |
+|  🐚   |         [📙](https://emojipedia.org/spiral-shell)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🐚.png) [🟢](screenshots/OS/1.1/white/🐚.png)    |          [Spiral shell](audio/2024-07/en/🐚.mp3)           |           [Spirale Muschel](audio/2024-07/de/🐚.mp3)            |
+|  🪸   |             [📙](https://emojipedia.org/coral)             |    [🔴](screenshots/FireOS/7.5.6.3/white/🪸.png) [🔴](screenshots/OS/1.1/white/🪸.png)    |                [-](audio/2024-07/en/🪸.mp3)                |                  [-](audio/2024-07/de/🪸.mp3)                   |
+|  🪨   |             [📙](https://emojipedia.org/rock)              |    [🔴](screenshots/FireOS/7.5.6.3/white/🪨.png) [🟢](screenshots/OS/1.1/white/🪨.png)    |                [-](audio/2024-07/en/🪨.mp3)                |                  [-](audio/2024-07/de/🪨.mp3)                   |
+|  🌾   |         [📙](https://emojipedia.org/sheaf-of-rice)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🌾.png) [🟢](screenshots/OS/1.1/white/🌾.png)    |           [Ear of rice](audio/2024-07/en/🌾.mp3)           |              [Reis Ehre](audio/2024-07/de/🌾.mp3)               |
+|  💐   |            [📙](https://emojipedia.org/bouquet)            |    [🟢](screenshots/FireOS/7.5.6.3/white/💐.png) [🟢](screenshots/OS/1.1/white/💐.png)    |              [Bokeh](audio/2024-07/en/💐.mp3)              |                [Strauß](audio/2024-07/de/💐.mp3)                |
+|  🌷   |             [📙](https://emojipedia.org/tulip)             |    [🟢](screenshots/FireOS/7.5.6.3/white/🌷.png) [🟢](screenshots/OS/1.1/white/🌷.png)    |              [Tulip](audio/2024-07/en/🌷.mp3)              |                [Tulpa](audio/2024-07/de/🌷.mp3)                 |
+|  🌹   |             [📙](https://emojipedia.org/rose)              |    [🟢](screenshots/FireOS/7.5.6.3/white/🌹.png) [🟢](screenshots/OS/1.1/white/🌹.png)    |              [Rose](audio/2024-07/en/🌹.mp3)               |                 [Rose](audio/2024-07/de/🌹.mp3)                 |
+|  🥀   |         [📙](https://emojipedia.org/wilted-flower)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🥀.png) [🟢](screenshots/OS/1.1/white/🥀.png)    |          [Wilterflower](audio/2024-07/en/🥀.mp3)           |                  [-](audio/2024-07/de/🥀.mp3)                   |
+|  🪻   |           [📙](https://emojipedia.org/hyacinth)            |    [🔴](screenshots/FireOS/7.5.6.3/white/🪻.png) [🔴](screenshots/OS/1.1/white/🪻.png)    |                [-](audio/2024-07/en/🪻.mp3)                |                  [-](audio/2024-07/de/🪻.mp3)                   |
+|  🪷   |             [📙](https://emojipedia.org/lotus)             |    [🔴](screenshots/FireOS/7.5.6.3/white/🪷.png) [🔴](screenshots/OS/1.1/white/🪷.png)    |                [-](audio/2024-07/en/🪷.mp3)                |                  [-](audio/2024-07/de/🪷.mp3)                   |
+|  🌺   |           [📙](https://emojipedia.org/hibiscus)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🌺.png) [🟢](screenshots/OS/1.1/white/🌺.png)    |            [Hibiscus](audio/2024-07/en/🌺.mp3)             |               [Hibiskus](audio/2024-07/de/🌺.mp3)               |
+|  🌸   |        [📙](https://emojipedia.org/cherry-blossom)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🌸.png) [🟢](screenshots/OS/1.1/white/🌸.png)    |         [Cherry blossom](audio/2024-07/en/🌸.mp3)          |             [Kirschblüte](audio/2024-07/de/🌸.mp3)              |
+|  🌼   |            [📙](https://emojipedia.org/blossom)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🌼.png) [🟢](screenshots/OS/1.1/white/🌼.png)    |             [Blossom](audio/2024-07/en/🌼.mp3)             |                [Blüte](audio/2024-07/de/🌼.mp3)                 |
+|  🌻   |           [📙](https://emojipedia.org/sunflower)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🌻.png) [🟢](screenshots/OS/1.1/white/🌻.png)    |            [Sunflower](audio/2024-07/en/🌻.mp3)            |             [Sonnenblume](audio/2024-07/de/🌻.mp3)              |
+|  🌞   |         [📙](https://emojipedia.org/sun-with-face)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🌞.png) [🟢](screenshots/OS/1.1/white/🌞.png)    |         [Sun with face.](audio/2024-07/en/🌞.mp3)          |          [Sonne mit Gesicht](audio/2024-07/de/🌞.mp3)           |
+|  🌝   |        [📙](https://emojipedia.org/full-moon-face)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🌝.png) [🟢](screenshots/OS/1.1/white/🌝.png)    |      [Full moon with face.](audio/2024-07/en/🌝.mp3)       |         [Vollmond mit Gesicht](audio/2024-07/de/🌝.mp3)         |
+|  🌛   |    [📙](https://emojipedia.org/first-quarter-moon-face)    |    [🟢](screenshots/FireOS/7.5.6.3/white/🌛.png) [🟢](screenshots/OS/1.1/white/🌛.png)    |     [Quarter moon with face.](audio/2024-07/en/🌛.mp3)     |       [Viertelmond mit Gesicht](audio/2024-07/de/🌛.mp3)        |
+|  🌜   |    [📙](https://emojipedia.org/last-quarter-moon-face)     |    [🟢](screenshots/FireOS/7.5.6.3/white/🌜.png) [🟢](screenshots/OS/1.1/white/🌜.png)    |  [Last quarter moon with face.](audio/2024-07/en/🌜.mp3)   |     [Abnehmender Mond mit Gesicht](audio/2024-07/de/🌜.mp3)     |
+|  🌚   |         [📙](https://emojipedia.org/new-moon-face)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🌚.png) [🟢](screenshots/OS/1.1/white/🌚.png)    |       [New moon with face](audio/2024-07/en/🌚.mp3)        |         [Neumond mit Gesicht](audio/2024-07/de/🌚.mp3)          |
+|  🌕   |           [📙](https://emojipedia.org/full-moon)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🌕.png) [🟢](screenshots/OS/1.1/white/🌕.png)    |            [Full moon](audio/2024-07/en/🌕.mp3)            |               [Vollmond](audio/2024-07/de/🌕.mp3)               |
+|  🌖   |      [📙](https://emojipedia.org/waning-gibbous-moon)      |    [🟢](screenshots/FireOS/7.5.6.3/white/🌖.png) [🟢](screenshots/OS/1.1/white/🌖.png)    |       [Waning gibbous moon](audio/2024-07/en/🌖.mp3)       |     [Abnehmender Dreiviertelmond](audio/2024-07/de/🌖.mp3)      |
+|  🌗   |       [📙](https://emojipedia.org/last-quarter-moon)       |    [🟢](screenshots/FireOS/7.5.6.3/white/🌗.png) [🟢](screenshots/OS/1.1/white/🌗.png)    |        [Last quarter moon](audio/2024-07/en/🌗.mp3)        |           [Abnehmender Mond](audio/2024-07/de/🌗.mp3)           |
+|  🌘   |     [📙](https://emojipedia.org/waning-crescent-moon)      |    [🟢](screenshots/FireOS/7.5.6.3/white/🌘.png) [🟢](screenshots/OS/1.1/white/🌘.png)    |      [Waning crescent moon](audio/2024-07/en/🌘.mp3)       |        [Abnehmender Sichelmond](audio/2024-07/de/🌘.mp3)        |
+|  🌑   |           [📙](https://emojipedia.org/new-moon)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🌑.png) [🟢](screenshots/OS/1.1/white/🌑.png)    |            [New Moon](audio/2024-07/en/🌑.mp3)             |               [Neumond](audio/2024-07/de/🌑.mp3)                |
+|  🌒   |     [📙](https://emojipedia.org/waxing-crescent-moon)      |    [🟢](screenshots/FireOS/7.5.6.3/white/🌒.png) [🟢](screenshots/OS/1.1/white/🌒.png)    |      [Waxing Crescent Moon](audio/2024-07/en/🌒.mp3)       |        [Zunehmender Sichelmond](audio/2024-07/de/🌒.mp3)        |
+|  🌓   |      [📙](https://emojipedia.org/first-quarter-moon)       |    [🟢](screenshots/FireOS/7.5.6.3/white/🌓.png) [🟢](screenshots/OS/1.1/white/🌓.png)    |          [Quarter Moon](audio/2024-07/en/🌓.mp3)           |             [Viertelmond](audio/2024-07/de/🌓.mp3)              |
+|  🌔   |      [📙](https://emojipedia.org/waxing-gibbous-moon)      |    [🟢](screenshots/FireOS/7.5.6.3/white/🌔.png) [🟢](screenshots/OS/1.1/white/🌔.png)    |       [Waxing gibbous moon](audio/2024-07/en/🌔.mp3)       |     [Zunehmender Dreiviertelmond](audio/2024-07/de/🌔.mp3)      |
+|  🌙   |         [📙](https://emojipedia.org/crescent-moon)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🌙.png) [🟢](screenshots/OS/1.1/white/🌙.png)    |          [Crescent Moon](audio/2024-07/en/🌙.mp3)          |              [Sichelmond](audio/2024-07/de/🌙.mp3)              |
+|  🌎   |    [📙](https://emojipedia.org/globe-showing-americas)     |    [🟢](screenshots/FireOS/7.5.6.3/white/🌎.png) [🟢](screenshots/OS/1.1/white/🌎.png)    |            [Americas](audio/2024-07/en/🌎.mp3)             |         [Nord- und Südamerika](audio/2024-07/de/🌎.mp3)         |
+|  🌍   |  [📙](https://emojipedia.org/globe-showing-europe-africa)  |    [🟢](screenshots/FireOS/7.5.6.3/white/🌍.png) [🟢](screenshots/OS/1.1/white/🌍.png)    |             [Africa](audio/2024-07/en/🌍.mp3)              |                [Afrika](audio/2024-07/de/🌍.mp3)                |
+|  🌏   | [📙](https://emojipedia.org/globe-showing-asia-australia)  |    [🟢](screenshots/FireOS/7.5.6.3/white/🌏.png) [🟢](screenshots/OS/1.1/white/🌏.png)    |              [globe](audio/2024-07/en/🌏.mp3)              |                [Globus](audio/2024-07/de/🌏.mp3)                |
+|  🪐   |         [📙](https://emojipedia.org/ringed-planet)         |    [🔴](screenshots/FireOS/7.5.6.3/white/🪐.png) [🟢](screenshots/OS/1.1/white/🪐.png)    |          [Ringed Planet](audio/2024-07/en/🪐.mp3)          |                  [-](audio/2024-07/de/🪐.mp3)                   |
+|  💫   |             [📙](https://emojipedia.org/dizzy)             |    [🟢](screenshots/FireOS/7.5.6.3/white/💫.png) [🟢](screenshots/OS/1.1/white/💫.png)    |              [Dizzy](audio/2024-07/en/💫.mp3)              |             [Benommenheit](audio/2024-07/de/💫.mp3)             |
+|  ⭐️   |             [📙](https://emojipedia.org/star)              |    [🟢](screenshots/FireOS/7.5.6.3/white/⭐️.png) [🟢](screenshots/OS/1.1/white/⭐️.png)    |              [Star](audio/2024-07/en/⭐️.mp3)               |                [Stern](audio/2024-07/de/⭐️.mp3)                 |
+|  🌟   |         [📙](https://emojipedia.org/glowing-star)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🌟.png) [🟢](screenshots/OS/1.1/white/🌟.png)    |          [Glowing Star](audio/2024-07/en/🌟.mp3)           |           [Glühender Stern](audio/2024-07/de/🌟.mp3)            |
+|   ✨   |           [📙](https://emojipedia.org/sparkles)            |     [🟢](screenshots/FireOS/7.5.6.3/white/✨.png) [🟢](screenshots/OS/1.1/white/✨.png)     |             [Sparkles](audio/2024-07/en/✨.mp3)             |                [Funken](audio/2024-07/de/✨.mp3)                 |
+|  ⚡️   |         [📙](https://emojipedia.org/high-voltage)          |    [🟢](screenshots/FireOS/7.5.6.3/white/⚡️.png) [🟢](screenshots/OS/1.1/white/⚡️.png)    |       [High voltage sign.](audio/2024-07/en/⚡️.mp3)        |         [Hochspannungszeichen](audio/2024-07/de/⚡️.mp3)         |
+|  ☄️   |             [📙](https://emojipedia.org/comet)             |    [🟢](screenshots/FireOS/7.5.6.3/white/☄️.png) [🟢](screenshots/OS/1.1/white/☄️.png)    |              [Comet](audio/2024-07/en/☄️.mp3)              |                [Komet](audio/2024-07/de/☄️.mp3)                 |
+|  💥   |           [📙](https://emojipedia.org/collision)           |    [🟢](screenshots/FireOS/7.5.6.3/white/💥.png) [🟢](screenshots/OS/1.1/white/💥.png)    |            [Collision](audio/2024-07/en/💥.mp3)            |              [Kollision](audio/2024-07/de/💥.mp3)               |
+|  🔥   |             [📙](https://emojipedia.org/fire)              |    [🟢](screenshots/FireOS/7.5.6.3/white/🔥.png) [🟢](screenshots/OS/1.1/white/🔥.png)    |              [Fire](audio/2024-07/en/🔥.mp3)               |                [Feuer](audio/2024-07/de/🔥.mp3)                 |
+|  🌪️  |            [📙](https://emojipedia.org/tornado)            |   [🟢](screenshots/FireOS/7.5.6.3/white/🌪️.png) [🟢](screenshots/OS/1.1/white/🌪️.png)   |            [Tornado](audio/2024-07/en/🌪️.mp3)             |               [Tornado](audio/2024-07/de/🌪️.mp3)               |
+|  🌈   |            [📙](https://emojipedia.org/rainbow)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🌈.png) [🟢](screenshots/OS/1.1/white/🌈.png)    |             [Rainbow](audio/2024-07/en/🌈.mp3)             |              [Regenbogen](audio/2024-07/de/🌈.mp3)              |
+|  ☀️   |              [📙](https://emojipedia.org/sun)              |    [🟢](screenshots/FireOS/7.5.6.3/white/☀️.png) [🟢](screenshots/OS/1.1/white/☀️.png)    |               [Sun](audio/2024-07/en/☀️.mp3)               |                [Sonne](audio/2024-07/de/☀️.mp3)                 |
+|  🌤️  |    [📙](https://emojipedia.org/sun-behind-small-cloud)     |   [🟢](screenshots/FireOS/7.5.6.3/white/🌤️.png) [🟢](screenshots/OS/1.1/white/🌤️.png)   |       [Sunny with clouds](audio/2024-07/en/🌤️.mp3)        |          [Sonnig mit Wolken](audio/2024-07/de/🌤️.mp3)          |
+|  ⛅️   |       [📙](https://emojipedia.org/sun-behind-cloud)        |    [🟢](screenshots/FireOS/7.5.6.3/white/⛅️.png) [🟢](screenshots/OS/1.1/white/⛅️.png)    |        [Sun behind cloud](audio/2024-07/en/⛅️.mp3)         |          [Sonne hinter Wolke](audio/2024-07/de/⛅️.mp3)          |
+|  🌥️  |    [📙](https://emojipedia.org/sun-behind-large-cloud)     |   [🟢](screenshots/FireOS/7.5.6.3/white/🌥️.png) [🟢](screenshots/OS/1.1/white/🌥️.png)   |       [Sunny with clouds](audio/2024-07/en/🌥️.mp3)        |          [Sonnig mit Wolken](audio/2024-07/de/🌥️.mp3)          |
+|  ☁️   |             [📙](https://emojipedia.org/cloud)             |    [🟢](screenshots/FireOS/7.5.6.3/white/☁️.png) [🟢](screenshots/OS/1.1/white/☁️.png)    |              [Cloud](audio/2024-07/en/☁️.mp3)              |                [Wolke](audio/2024-07/de/☁️.mp3)                 |
+|  🌦️  |     [📙](https://emojipedia.org/sun-behind-rain-cloud)     |   [🟢](screenshots/FireOS/7.5.6.3/white/🌦️.png) [🟢](screenshots/OS/1.1/white/🌦️.png)   | [Sunny with clouds and showers.](audio/2024-07/en/🌦️.mp3) | [Sonnig mit Wolken und Regenschauern](audio/2024-07/de/🌦️.mp3) |
+|  🌧️  |        [📙](https://emojipedia.org/cloud-with-rain)        |   [🟢](screenshots/FireOS/7.5.6.3/white/🌧️.png) [🟢](screenshots/OS/1.1/white/🌧️.png)   |           [Rain Cloud](audio/2024-07/en/🌧️.mp3)           |             [Regenwolke](audio/2024-07/de/🌧️.mp3)              |
+|  ⛈️   | [📙](https://emojipedia.org/cloud-with-lightning-and-rain) |    [🟢](screenshots/FireOS/7.5.6.3/white/⛈️.png) [🟢](screenshots/OS/1.1/white/⛈️.png)    |        [Lightning showers](audio/2024-07/en/⛈️.mp3)        |         [Blitz, Regenschauer](audio/2024-07/de/⛈️.mp3)          |
+|  🌩️  |     [📙](https://emojipedia.org/cloud-with-lightning)      |   [🟢](screenshots/FireOS/7.5.6.3/white/🌩️.png) [🟢](screenshots/OS/1.1/white/🌩️.png)   |          [Thunderstorm](audio/2024-07/en/🌩️.mp3)          |              [Gewitter](audio/2024-07/de/🌩️.mp3)               |
+|  🌨️  |        [📙](https://emojipedia.org/cloud-with-snow)        |   [🟢](screenshots/FireOS/7.5.6.3/white/🌨️.png) [🟢](screenshots/OS/1.1/white/🌨️.png)   |          [Snow cloud.](audio/2024-07/en/🌨️.mp3)           |             [Schneewolke](audio/2024-07/de/🌨️.mp3)             |
+|  ❄️   |           [📙](https://emojipedia.org/snowflake)           |    [🟢](screenshots/FireOS/7.5.6.3/white/❄️.png) [🟢](screenshots/OS/1.1/white/❄️.png)    |            [Snowflake](audio/2024-07/en/❄️.mp3)            |             [Schneeflocke](audio/2024-07/de/❄️.mp3)             |
+|  ☃️   |            [📙](https://emojipedia.org/snowman)            |    [🟢](screenshots/FireOS/7.5.6.3/white/☃️.png) [🟢](screenshots/OS/1.1/white/☃️.png)    |             [Snowman](audio/2024-07/en/☃️.mp3)             |              [Schneemann](audio/2024-07/de/☃️.mp3)              |
+|  ⛄️   |     [📙](https://emojipedia.org/snowman-without-snow)      |    [🟢](screenshots/FireOS/7.5.6.3/white/⛄️.png) [🟢](screenshots/OS/1.1/white/⛄️.png)    |             [Snowman](audio/2024-07/en/⛄️.mp3)             |              [Schneemann](audio/2024-07/de/⛄️.mp3)              |
+|  🌬️  |           [📙](https://emojipedia.org/wind-face)           |   [🟢](screenshots/FireOS/7.5.6.3/white/🌬️.png) [🟢](screenshots/OS/1.1/white/🌬️.png)   |              [Gale](audio/2024-07/en/🌬️.mp3)              |                [Sturm](audio/2024-07/de/🌬️.mp3)                |
+|  💨   |         [📙](https://emojipedia.org/dashing-away)          |    [🟢](screenshots/FireOS/7.5.6.3/white/💨.png) [🟢](screenshots/OS/1.1/white/💨.png)    |             [Speedy.](audio/2024-07/en/💨.mp3)             |                [Sausen](audio/2024-07/de/💨.mp3)                |
+|  💧   |            [📙](https://emojipedia.org/droplet)            |    [🟢](screenshots/FireOS/7.5.6.3/white/💧.png) [🟢](screenshots/OS/1.1/white/💧.png)    |             [Droplet](audio/2024-07/en/💧.mp3)             |               [Tröbchen](audio/2024-07/de/💧.mp3)               |
+|  💦   |        [📙](https://emojipedia.org/sweat-droplets)         |    [🟢](screenshots/FireOS/7.5.6.3/white/💦.png) [🟢](screenshots/OS/1.1/white/💦.png)    |          [Nervous Sweat](audio/2024-07/en/💦.mp3)          |         [Spritzender Schweiß](audio/2024-07/de/💦.mp3)          |
+|  🫧   |            [📙](https://emojipedia.org/bubbles)            |    [🔴](screenshots/FireOS/7.5.6.3/white/🫧.png) [🔴](screenshots/OS/1.1/white/🫧.png)    |                [-](audio/2024-07/en/🫧.mp3)                |                  [-](audio/2024-07/de/🫧.mp3)                   |
+|  ☔️   |   [📙](https://emojipedia.org/umbrella-with-rain-drops)    |    [🟢](screenshots/FireOS/7.5.6.3/white/☔️.png) [🟢](screenshots/OS/1.1/white/☔️.png)    |          [Open Umbrella](audio/2024-07/en/☔️.mp3)          |        [Geöffneter Regenschirm](audio/2024-07/de/☔️.mp3)        |
+|  ☂️   |           [📙](https://emojipedia.org/umbrella)            |    [🟢](screenshots/FireOS/7.5.6.3/white/☂️.png) [🟢](screenshots/OS/1.1/white/☂️.png)    |            [Umbrella](audio/2024-07/en/☂️.mp3)             |             [Regenschirm](audio/2024-07/de/☂️.mp3)              |
+|  🌊   |          [📙](https://emojipedia.org/water-wave)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🌊.png) [🟢](screenshots/OS/1.1/white/🌊.png)    |           [Ocean Wave](audio/2024-07/en/🌊.mp3)            |              [Ozeanwelle](audio/2024-07/de/🌊.mp3)              |
+|  🌫️  |              [📙](https://emojipedia.org/fog)              |   [🟢](screenshots/FireOS/7.5.6.3/white/🌫️.png) [🟢](screenshots/OS/1.1/white/🌫️.png)   |              [fog](audio/2024-07/en/🌫️.mp3)               |                [Nebel](audio/2024-07/de/🌫️.mp3)                |
 
 
 
-Last Update 13 Nov 2020 based on [Emoji Version 13.0](https://emojipedia.org/emoji-13.0/)
+Last Update July 2024 based on [Emoji Version 15.1](https://emojipedia.org/emoji-15.1)

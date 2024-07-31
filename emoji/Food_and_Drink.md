@@ -1,130 +1,136 @@
 # EMOJI on ALEXA devices with SCREENS - Food & Drink (x/y)
 
-| EMOJI | supported | English SSML  | German SSML   |
-|:-----:|:---------:|:-------------:|:-------------:|
-|🍇| ? [📙](https://emojipedia.org/grapes/)             | |                |
-|🍈| ? [📙](https://emojipedia.org/melon/)             | |                |
-|🍉| ? [📙](https://emojipedia.org/watermelon/)             | |                |
-|🍊| ? [📙](https://emojipedia.org/tangerine/)             | |                |
-|🍋| ? [📙](https://emojipedia.org/lemon/)             | |                |
-|🍌| ? [📙](https://emojipedia.org/banana/)             | |                |
-|🍍| ? [📙](https://emojipedia.org/pineapple/)             | |                |
-|🥭| ? [📙](https://emojipedia.org/mango/)             | |                |
-|🍎| ? [📙](https://emojipedia.org/red-apple/)             | |                |
-|🍏| ? [📙](https://emojipedia.org/green-apple/)             | |                |
-|🍐| ? [📙](https://emojipedia.org/pear/)             | |                |
-|🍑| ? [📙](https://emojipedia.org/peach/)             | |                |
-|🍒| ? [📙](https://emojipedia.org/cherries/)             | |                |
-|🍓| ? [📙](https://emojipedia.org/strawberry/)             | |                |
-|🫐| ? [📙](https://emojipedia.org/blueberries/)             | |                |
-|🥝| ? [📙](https://emojipedia.org/kiwi-fruit/)             | |                |
-|🍅| ? [📙](https://emojipedia.org/tomato/)             | |                |
-|🫒| ? [📙](https://emojipedia.org/olive/)             | |                |
-|🥥| ? [📙](https://emojipedia.org/coconut/)             | |                |
-|🥑| ? [📙](https://emojipedia.org/avocado/)             | |                |
-|🍆| ? [📙](https://emojipedia.org/eggplant/)             | |                |
-|🥔| ? [📙](https://emojipedia.org/potato/)             | |                |
-|🥕| ? [📙](https://emojipedia.org/carrot/)             | |                |
-|🌽| ? [📙](https://emojipedia.org/ear-of-corn/)             | |                |
-|🌶️| ? [📙](https://emojipedia.org/hot-pepper/)             | |                |
-|🫑| ? [📙](https://emojipedia.org/bell-pepper/)             | |                |
-|🥒| ? [📙](https://emojipedia.org/cucumber/)             | |                |
-|🥬| ? [📙](https://emojipedia.org/leafy-green/)             | |                |
-|🥦| ? [📙](https://emojipedia.org/broccoli/)             | |                |
-|🧄| ? [📙](https://emojipedia.org/garlic/)             | |                |
-|🧅| ? [📙](https://emojipedia.org/onion/)             | |                |
-|🍄| ? [📙](https://emojipedia.org/mushroom/)             | |                |
-|🥜| ? [📙](https://emojipedia.org/peanuts/)             | |                |
-|🌰| ? [📙](https://emojipedia.org/chestnut/)             | |                |
-|🍞| ? [📙](https://emojipedia.org/bread/)             | |                |
-|🥐| ? [📙](https://emojipedia.org/croissant/)             | |                |
-|🥖| ? [📙](https://emojipedia.org/baguette-bread/)             | |                |
-|🫓| ? [📙](https://emojipedia.org/flatbread/)             | |                |
-|🥨| ? [📙](https://emojipedia.org/pretzel/)             | |                |
-|🥯| ? [📙](https://emojipedia.org/bagel/)             | |                |
-|🥞| ? [📙](https://emojipedia.org/pancakes/)             | |                |
-|🧇| ? [📙](https://emojipedia.org/waffle/)             | |                |
-|🧀| ? [📙](https://emojipedia.org/cheese-wedge/)             | |                |
-|🍖| ? [📙](https://emojipedia.org/meat-on-bone/)             | |                |
-|🍗| ? [📙](https://emojipedia.org/poultry-leg/)             | |                |
-|🥩| ? [📙](https://emojipedia.org/cut-of-meat/)             | |                |
-|🥓| ? [📙](https://emojipedia.org/bacon/)             | |                |
-|🍔| ? [📙](https://emojipedia.org/hamburger/)             | |                |
-|🍟| ? [📙](https://emojipedia.org/french-fries/)             | |                |
-|🍕| ? [📙](https://emojipedia.org/pizza/)             | |                |
-|🌭| ? [📙](https://emojipedia.org/hot-dog/)             | |                |
-|🥪| ? [📙](https://emojipedia.org/sandwich/)             | |                |
-|🌮| ? [📙](https://emojipedia.org/taco/)             | |                |
-|🌯| ? [📙](https://emojipedia.org/burrito/)             | |                |
-|🫔| ? [📙](https://emojipedia.org/tamale/)             | |                |
-|🥙| ? [📙](https://emojipedia.org/stuffed-flatbread/)             | |                |
-|🧆| ? [📙](https://emojipedia.org/falafel/)             | |                |
-|🥚| ? [📙](https://emojipedia.org/egg/)             | |                |
-|🍳| ? [📙](https://emojipedia.org/cooking/)             | |                |
-|🥘| ? [📙](https://emojipedia.org/shallow-pan-of-food/)             | |                |
-|🍲| ? [📙](https://emojipedia.org/pot-of-food/)             | |                |
-|🫕| ? [📙](https://emojipedia.org/fondue/)             | |                |
-|🥣| ? [📙](https://emojipedia.org/bowl-with-spoon/)             | |                |
-|🥗| ? [📙](https://emojipedia.org/green-salad/)             | |                |
-|🍿| ? [📙](https://emojipedia.org/popcorn/)             | |                |
-|🧈| ? [📙](https://emojipedia.org/butter/)             | |                |
-|🧂| ? [📙](https://emojipedia.org/salt/)             | |                |
-|🥫| ? [📙](https://emojipedia.org/canned-food/)             | |                |
-|🍱| ? [📙](https://emojipedia.org/bento-box/)             | |                |
-|🍘| ? [📙](https://emojipedia.org/rice-cracker/)             | |                |
-|🍙| ? [📙](https://emojipedia.org/rice-ball/)             | |                |
-|🍚| ? [📙](https://emojipedia.org/cooked-rice/)             | |                |
-|🍛| ? [📙](https://emojipedia.org/curry-rice/)             | |                |
-|🍜| ? [📙](https://emojipedia.org/steaming-bowl/)             | |                |
-|🍝| ? [📙](https://emojipedia.org/spaghetti/)             | |                |
-|🍠| ? [📙](https://emojipedia.org/roasted-sweet-potato/)             | |                |
-|🍢| ? [📙](https://emojipedia.org/oden/)             | |                |
-|🍣| ? [📙](https://emojipedia.org/sushi/)             | |                |
-|🍤| ? [📙](https://emojipedia.org/fried-shrimp/)             | |                |
-|🍥| ? [📙](https://emojipedia.org/fish-cake-with-swirl/)             | |                |
-|🥮| ? [📙](https://emojipedia.org/moon-cake/)             | |                |
-|🍡| ? [📙](https://emojipedia.org/dango/)             | |                |
-|🥟| ? [📙](https://emojipedia.org/dumpling/)             | |                |
-|🥠| ? [📙](https://emojipedia.org/fortune-cookie/)             | |                |
-|🥡| ? [📙](https://emojipedia.org/takeout-box/)             | |                |
-|🦪| ? [📙](https://emojipedia.org/oyster/)             | |                |
-|🍦| ? [📙](https://emojipedia.org/soft-ice-cream/)             | |                |
-|🍧| ? [📙](https://emojipedia.org/shaved-ice/)             | |                |
-|🍨| ? [📙](https://emojipedia.org/ice-cream/)             | |                |
-|🍩| ? [📙](https://emojipedia.org/doughnut/)             | |                |
-|🍪| ? [📙](https://emojipedia.org/cookie/)             | |                |
-|🎂| ? [📙](https://emojipedia.org/birthday-cake/)             | |                |
-|🍰| ? [📙](https://emojipedia.org/shortcake/)             | |                |
-|🧁| ? [📙](https://emojipedia.org/cupcake/)             | |                |
-|🥧| ? [📙](https://emojipedia.org/pie/)             | |                |
-|🍫| ? [📙](https://emojipedia.org/chocolate-bar/)             | |                |
-|🍬| ? [📙](https://emojipedia.org/candy/)             | |                |
-|🍭| ? [📙](https://emojipedia.org/lollipop/)             | |                |
-|🍮| ? [📙](https://emojipedia.org/custard/)             | |                |
-|🍯| ? [📙](https://emojipedia.org/honey-pot/)             | |                |
-|🍼| ? [📙](https://emojipedia.org/baby-bottle/)             | |                |
-|🥛| ? [📙](https://emojipedia.org/glass-of-milk/)             | |                |
-|☕| ? [📙](https://emojipedia.org/hot-beverage/)             | |                |
-|🫖| ? [📙](https://emojipedia.org/teapot/)             | |                |
-|🍵| ? [📙](https://emojipedia.org/teacup-without-handle/)             | |                |
-|🍶| ? [📙](https://emojipedia.org/sake/)             | |                |
-|🍾| ? [📙](https://emojipedia.org/bottle-with-popping-cork/)             | |                |
-|🍷| ? [📙](https://emojipedia.org/wine-glass/)             | |                |
-|🍸| ? [📙](https://emojipedia.org/cocktail-glass/)             | |                |
-|🍹| ? [📙](https://emojipedia.org/tropical-drink/)             | |                |
-|🍺| ? [📙](https://emojipedia.org/beer-mug/)             | |                |
-|🍻| ? [📙](https://emojipedia.org/clinking-beer-mugs/)             | |                |
-|🥂| ? [📙](https://emojipedia.org/clinking-glasses/)             | |                |
-|🥃| ? [📙](https://emojipedia.org/tumbler-glass/)             | |                |
-|🥤| ? [📙](https://emojipedia.org/cup-with-straw/)             | |                |
-|🧋| ? [📙](https://emojipedia.org/bubble-tea/)             | |                |
-|🧃| ? [📙](https://emojipedia.org/beverage-box/)             | |                |
-|🧉| ? [📙](https://emojipedia.org/mate/)             | |                |
-|🧊| ? [📙](https://emojipedia.org/ice/)             | |                |
-|🥢| ? [📙](https://emojipedia.org/chopsticks/)             | |                |
-|🍽️| ? [📙](https://emojipedia.org/fork-and-knife-with-plate/)             | |                |
-|🍴| ? [📙](https://emojipedia.org/fork-and-knife/)             | |                |
-|🥄| ? [📙](https://emojipedia.org/spoon/)             | |                |
+| EMOJI |                          WIKI                          |                                          screen                                           |                  English audio                  |                          German audio                           |
+|:-----:|:------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:-----------------------------------------------:|:---------------------------------------------------------------:|
+|  🍏   |        [📙](https://emojipedia.org/green-apple)        |    [🟢](screenshots/FireOS/7.5.6.3/white/🍏.png) [🟢](screenshots/OS/1.1/white/🍏.png)    |     [Green apple](audio/2024-07/en/🍏.mp3)      |             [Grüner Apfel](audio/2024-07/de/🍏.mp3)             |
+|  🍎   |         [📙](https://emojipedia.org/red-apple)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🍎.png) [🟢](screenshots/OS/1.1/white/🍎.png)    |      [Red apple.](audio/2024-07/en/🍎.mp3)      |             [Roter Apfel](audio/2024-07/de/🍎.mp3)              |
+|  🍐   |           [📙](https://emojipedia.org/pear)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🍐.png) [🟢](screenshots/OS/1.1/white/🍐.png)    |         [Pear](audio/2024-07/en/🍐.mp3)         |                [Berner](audio/2024-07/de/🍐.mp3)                |
+|  🍊   |         [📙](https://emojipedia.org/tangerine)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🍊.png) [🟢](screenshots/OS/1.1/white/🍊.png)    |      [Tangerine](audio/2024-07/en/🍊.mp3)       |               [Mandarin](audio/2024-07/de/🍊.mp3)               |
+|  🍋   |           [📙](https://emojipedia.org/lemon)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🍋.png) [🟢](screenshots/OS/1.1/white/🍋.png)    |        [Lemon](audio/2024-07/en/🍋.mp3)         |               [Zitrone.](audio/2024-07/de/🍋.mp3)               |
+| 🍋‍🟩 |           [📙](https://emojipedia.org/lime)            | [🔴](screenshots/FireOS/7.5.6.3/white/🍋‍🟩.png) [🟡](screenshots/OS/1.1/white/🍋‍🟩.png) |       [Lemon](audio/2024-07/en/🍋‍🟩.mp3)       |             [Zitrone.](audio/2024-07/de/🍋‍🟩.mp3)              |
+|  🍌   |          [📙](https://emojipedia.org/banana)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🍌.png) [🟢](screenshots/OS/1.1/white/🍌.png)    |        [Banana](audio/2024-07/en/🍌.mp3)        |                [Banane](audio/2024-07/de/🍌.mp3)                |
+|  🍉   |        [📙](https://emojipedia.org/watermelon)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🍉.png) [🟢](screenshots/OS/1.1/white/🍉.png)    |      [Watermelon](audio/2024-07/en/🍉.mp3)      |             [Wassermelone](audio/2024-07/de/🍉.mp3)             |
+|  🍇   |          [📙](https://emojipedia.org/grapes)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🍇.png) [🟢](screenshots/OS/1.1/white/🍇.png)    |        [Grapes](audio/2024-07/en/🍇.mp3)        |             [Weintrauben](audio/2024-07/de/🍇.mp3)              |
+|  🍓   |        [📙](https://emojipedia.org/strawberry)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🍓.png) [🟢](screenshots/OS/1.1/white/🍓.png)    |      [Strawberry](audio/2024-07/en/🍓.mp3)      |               [Erdbeere](audio/2024-07/de/🍓.mp3)               |
+|  🫐   |        [📙](https://emojipedia.org/blueberries)        |    [🔴](screenshots/FireOS/7.5.6.3/white/🫐.png) [🟢](screenshots/OS/1.1/white/🫐.png)    |          [-](audio/2024-07/en/🫐.mp3)           |                  [-](audio/2024-07/de/🫐.mp3)                   |
+|  🍈   |           [📙](https://emojipedia.org/melon)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🍈.png) [🟢](screenshots/OS/1.1/white/🍈.png)    |        [Melon](audio/2024-07/en/🍈.mp3)         |                [Melone](audio/2024-07/de/🍈.mp3)                |
+|  🍒   |         [📙](https://emojipedia.org/cherries)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🍒.png) [🟢](screenshots/OS/1.1/white/🍒.png)    |       [Cherries](audio/2024-07/en/🍒.mp3)       |               [Kirschen](audio/2024-07/de/🍒.mp3)               |
+|  🍑   |           [📙](https://emojipedia.org/peach)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🍑.png) [🟢](screenshots/OS/1.1/white/🍑.png)    |        [Peach](audio/2024-07/en/🍑.mp3)         |               [Pfirsich](audio/2024-07/de/🍑.mp3)               |
+|  🥭   |           [📙](https://emojipedia.org/mango)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🥭.png) [🟢](screenshots/OS/1.1/white/🥭.png)    |        [Mango](audio/2024-07/en/🥭.mp3)         |                  [-](audio/2024-07/de/🥭.mp3)                   |
+|  🍍   |         [📙](https://emojipedia.org/pineapple)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🍍.png) [🟢](screenshots/OS/1.1/white/🍍.png)    |      [Pineapple](audio/2024-07/en/🍍.mp3)       |                [Ananas](audio/2024-07/de/🍍.mp3)                |
+|  🥥   |          [📙](https://emojipedia.org/coconut)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🥥.png) [🟢](screenshots/OS/1.1/white/🥥.png)    |       [Coconut](audio/2024-07/en/🥥.mp3)        |                  [-](audio/2024-07/de/🥥.mp3)                   |
+|  🥝   |        [📙](https://emojipedia.org/kiwi-fruit)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🥝.png) [🟢](screenshots/OS/1.1/white/🥝.png)    |         [Kiwi](audio/2024-07/en/🥝.mp3)         |                  [-](audio/2024-07/de/🥝.mp3)                   |
+|  🍅   |          [📙](https://emojipedia.org/tomato)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🍅.png) [🟢](screenshots/OS/1.1/white/🍅.png)    |        [Tomato](audio/2024-07/en/🍅.mp3)        |                [Tomate](audio/2024-07/de/🍅.mp3)                |
+|  🍆   |         [📙](https://emojipedia.org/eggplant)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🍆.png) [🟢](screenshots/OS/1.1/white/🍆.png)    |       [Eggplant](audio/2024-07/en/🍆.mp3)       |              [Aubergine](audio/2024-07/de/🍆.mp3)               |
+|  🥑   |          [📙](https://emojipedia.org/avocado)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🥑.png) [🟢](screenshots/OS/1.1/white/🥑.png)    |       [Avidico](audio/2024-07/en/🥑.mp3)        |                  [-](audio/2024-07/de/🥑.mp3)                   |
+|  🫛   |          [📙](https://emojipedia.org/pea-pod)          |    [🔴](screenshots/FireOS/7.5.6.3/white/🫛.png) [🔴](screenshots/OS/1.1/white/🫛.png)    |          [-](audio/2024-07/en/🫛.mp3)           |                  [-](audio/2024-07/de/🫛.mp3)                   |
+|  🥦   |         [📙](https://emojipedia.org/broccoli)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🥦.png) [🟢](screenshots/OS/1.1/white/🥦.png)    |       [Broccoli](audio/2024-07/en/🥦.mp3)       |                  [-](audio/2024-07/de/🥦.mp3)                   |
+|  🥬   |        [📙](https://emojipedia.org/leafy-green)        |    [🟢](screenshots/FireOS/7.5.6.3/white/🥬.png) [🟢](screenshots/OS/1.1/white/🥬.png)    |     [Leafy green](audio/2024-07/en/🥬.mp3)      |                  [-](audio/2024-07/de/🥬.mp3)                   |
+|  🥒   |         [📙](https://emojipedia.org/cucumber)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🥒.png) [🟢](screenshots/OS/1.1/white/🥒.png)    |       [Cucumber](audio/2024-07/en/🥒.mp3)       |                  [-](audio/2024-07/de/🥒.mp3)                   |
+|  🌶️  |        [📙](https://emojipedia.org/hot-pepper)         |   [🟢](screenshots/FireOS/7.5.6.3/white/🌶️.png) [🟢](screenshots/OS/1.1/white/🌶️.png)   |     [Hot pepper](audio/2024-07/en/🌶️.mp3)      |                [Chili](audio/2024-07/de/🌶️.mp3)                |
+|  🫑   |        [📙](https://emojipedia.org/bell-pepper)        |    [🔴](screenshots/FireOS/7.5.6.3/white/🫑.png) [🟢](screenshots/OS/1.1/white/🫑.png)    |          [-](audio/2024-07/en/🫑.mp3)           |                  [-](audio/2024-07/de/🫑.mp3)                   |
+|  🌽   |        [📙](https://emojipedia.org/ear-of-corn)        |    [🟢](screenshots/FireOS/7.5.6.3/white/🌽.png) [🟢](screenshots/OS/1.1/white/🌽.png)    |         [Corn](audio/2024-07/en/🌽.mp3)         |                 [Mais](audio/2024-07/de/🌽.mp3)                 |
+|  🥕   |          [📙](https://emojipedia.org/carrot)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🥕.png) [🟢](screenshots/OS/1.1/white/🥕.png)    |        [Carrot](audio/2024-07/en/🥕.mp3)        |                  [-](audio/2024-07/de/🥕.mp3)                   |
+|  🫒   |           [📙](https://emojipedia.org/olive)           |    [🔴](screenshots/FireOS/7.5.6.3/white/🫒.png) [🟢](screenshots/OS/1.1/white/🫒.png)    |          [-](audio/2024-07/en/🫒.mp3)           |                  [-](audio/2024-07/de/🫒.mp3)                   |
+|  🧄   |          [📙](https://emojipedia.org/garlic)           |    [🔴](screenshots/FireOS/7.5.6.3/white/🧄.png) [🟢](screenshots/OS/1.1/white/🧄.png)    |          [-](audio/2024-07/en/🧄.mp3)           |                  [-](audio/2024-07/de/🧄.mp3)                   |
+|  🧅   |           [📙](https://emojipedia.org/onion)           |    [🔴](screenshots/FireOS/7.5.6.3/white/🧅.png) [🟢](screenshots/OS/1.1/white/🧅.png)    |          [-](audio/2024-07/en/🧅.mp3)           |                  [-](audio/2024-07/de/🧅.mp3)                   |
+|  🥔   |          [📙](https://emojipedia.org/potato)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🥔.png) [🟢](screenshots/OS/1.1/white/🥔.png)    |        [Potato](audio/2024-07/en/🥔.mp3)        |                  [-](audio/2024-07/de/🥔.mp3)                   |
+|  🍠   |   [📙](https://emojipedia.org/roasted-sweet-potato)    |    [🟢](screenshots/FireOS/7.5.6.3/white/🍠.png) [🟢](screenshots/OS/1.1/white/🍠.png)    | [Roasted sweet potato](audio/2024-07/en/🍠.mp3) |        [Geröstete Süßkartoffel](audio/2024-07/de/🍠.mp3)        |
+|  🫚   |          [📙](https://emojipedia.org/ginger)           |    [🔴](screenshots/FireOS/7.5.6.3/white/🫚.png) [🔴](screenshots/OS/1.1/white/🫚.png)    |          [-](audio/2024-07/en/🫚.mp3)           |                  [-](audio/2024-07/de/🫚.mp3)                   |
+|  🥐   |         [📙](https://emojipedia.org/croissant)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🥐.png) [🟢](screenshots/OS/1.1/white/🥐.png)    |      [Croissant](audio/2024-07/en/🥐.mp3)       |                  [-](audio/2024-07/de/🥐.mp3)                   |
+|  🥯   |           [📙](https://emojipedia.org/bagel)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🥯.png) [🟢](screenshots/OS/1.1/white/🥯.png)    |        [Bagel](audio/2024-07/en/🥯.mp3)         |                  [-](audio/2024-07/de/🥯.mp3)                   |
+|  🍞   |           [📙](https://emojipedia.org/bread)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🍞.png) [🟢](screenshots/OS/1.1/white/🍞.png)    |        [Bread](audio/2024-07/en/🍞.mp3)         |                 [Brot](audio/2024-07/de/🍞.mp3)                 |
+|  🥖   |      [📙](https://emojipedia.org/baguette-bread)       |    [🟢](screenshots/FireOS/7.5.6.3/white/🥖.png) [🟢](screenshots/OS/1.1/white/🥖.png)    |       [Baguette](audio/2024-07/en/🥖.mp3)       |                  [-](audio/2024-07/de/🥖.mp3)                   |
+|  🥨   |          [📙](https://emojipedia.org/pretzel)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🥨.png) [🟢](screenshots/OS/1.1/white/🥨.png)    |       [Pretzel](audio/2024-07/en/🥨.mp3)        |                  [-](audio/2024-07/de/🥨.mp3)                   |
+|  🧀   |       [📙](https://emojipedia.org/cheese-wedge)        |    [🟢](screenshots/FireOS/7.5.6.3/white/🧀.png) [🟢](screenshots/OS/1.1/white/🧀.png)    |        [Cheese](audio/2024-07/en/🧀.mp3)        |                 [Käse](audio/2024-07/de/🧀.mp3)                 |
+|  🥚   |            [📙](https://emojipedia.org/egg)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🥚.png) [🟢](screenshots/OS/1.1/white/🥚.png)    |         [Egg](audio/2024-07/en/🥚.mp3)          |                  [-](audio/2024-07/de/🥚.mp3)                   |
+|  🍳   |          [📙](https://emojipedia.org/cooking)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🍳.png) [🟢](screenshots/OS/1.1/white/🍳.png)    |    [Frying an egg](audio/2024-07/en/🍳.mp3)     |              [Spiegelei](audio/2024-07/de/🍳.mp3)               |
+|  🧈   |          [📙](https://emojipedia.org/butter)           |    [🔴](screenshots/FireOS/7.5.6.3/white/🧈.png) [🟢](screenshots/OS/1.1/white/🧈.png)    |          [-](audio/2024-07/en/🧈.mp3)           |                  [-](audio/2024-07/de/🧈.mp3)                   |
+|  🥞   |         [📙](https://emojipedia.org/pancakes)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🥞.png) [🟢](screenshots/OS/1.1/white/🥞.png)    |       [Pancakes](audio/2024-07/en/🥞.mp3)       |                  [-](audio/2024-07/de/🥞.mp3)                   |
+|  🧇   |          [📙](https://emojipedia.org/waffle)           |    [🔴](screenshots/FireOS/7.5.6.3/white/🧇.png) [🟢](screenshots/OS/1.1/white/🧇.png)    |          [-](audio/2024-07/en/🧇.mp3)           |                  [-](audio/2024-07/de/🧇.mp3)                   |
+|  🥓   |           [📙](https://emojipedia.org/bacon)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🥓.png) [🟢](screenshots/OS/1.1/white/🥓.png)    |        [Bacon](audio/2024-07/en/🥓.mp3)         |                  [-](audio/2024-07/de/🥓.mp3)                   |
+|  🥩   |        [📙](https://emojipedia.org/cut-of-meat)        |    [🟢](screenshots/FireOS/7.5.6.3/white/🥩.png) [🟢](screenshots/OS/1.1/white/🥩.png)    |     [Cut of meat](audio/2024-07/en/🥩.mp3)      |                  [-](audio/2024-07/de/🥩.mp3)                   |
+|  🍗   |        [📙](https://emojipedia.org/poultry-leg)        |    [🟢](screenshots/FireOS/7.5.6.3/white/🍗.png) [🟢](screenshots/OS/1.1/white/🍗.png)    |     [Poultry Leg](audio/2024-07/en/🍗.mp3)      |            [Hähnchenkeule](audio/2024-07/de/🍗.mp3)             |
+|  🍖   |       [📙](https://emojipedia.org/meat-on-bone)        |    [🟢](screenshots/FireOS/7.5.6.3/white/🍖.png) [🟢](screenshots/OS/1.1/white/🍖.png)    |         [Meat](audio/2024-07/en/🍖.mp3)         |               [Fleisch](audio/2024-07/de/🍖.mp3)                |
+|  🦴   |           [📙](https://emojipedia.org/bone)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🦴.png) [🟢](screenshots/OS/1.1/white/🦴.png)    |         [Bone](audio/2024-07/en/🦴.mp3)         |                  [-](audio/2024-07/de/🦴.mp3)                   |
+|  🌭   |          [📙](https://emojipedia.org/hot-dog)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🌭.png) [🟢](screenshots/OS/1.1/white/🌭.png)    |       [Hot dog.](audio/2024-07/en/🌭.mp3)       |               [Hot Dog](audio/2024-07/de/🌭.mp3)                |
+|  🍔   |         [📙](https://emojipedia.org/hamburger)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🍔.png) [🟢](screenshots/OS/1.1/white/🍔.png)    |      [Hamburger](audio/2024-07/en/🍔.mp3)       |              [Hamburger](audio/2024-07/de/🍔.mp3)               |
+|  🍟   |       [📙](https://emojipedia.org/french-fries)        |    [🟢](screenshots/FireOS/7.5.6.3/white/🍟.png) [🟢](screenshots/OS/1.1/white/🍟.png)    |     [French fries](audio/2024-07/en/🍟.mp3)     |            [Pommes frites](audio/2024-07/de/🍟.mp3)             |
+|  🍕   |           [📙](https://emojipedia.org/pizza)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🍕.png) [🟢](screenshots/OS/1.1/white/🍕.png)    |   [Slice of pizza.](audio/2024-07/en/🍕.mp3)    |              [Pizzastück](audio/2024-07/de/🍕.mp3)              |
+|  🫓   |         [📙](https://emojipedia.org/flatbread)         |    [🔴](screenshots/FireOS/7.5.6.3/white/🫓.png) [🟢](screenshots/OS/1.1/white/🫓.png)    |          [-](audio/2024-07/en/🫓.mp3)           |                  [-](audio/2024-07/de/🫓.mp3)                   |
+|  🥪   |         [📙](https://emojipedia.org/sandwich)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🥪.png) [🟢](screenshots/OS/1.1/white/🥪.png)    |       [Sandwich](audio/2024-07/en/🥪.mp3)       |                  [-](audio/2024-07/de/🥪.mp3)                   |
+|  🥙   |     [📙](https://emojipedia.org/stuffed-flatbread)     |    [🟢](screenshots/FireOS/7.5.6.3/white/🥙.png) [🟢](screenshots/OS/1.1/white/🥙.png)    |  [Stuffed flatbread](audio/2024-07/en/🥙.mp3)   |                  [-](audio/2024-07/de/🥙.mp3)                   |
+|  🧆   |          [📙](https://emojipedia.org/falafel)          |    [🔴](screenshots/FireOS/7.5.6.3/white/🧆.png) [🟢](screenshots/OS/1.1/white/🧆.png)    |          [-](audio/2024-07/en/🧆.mp3)           |                  [-](audio/2024-07/de/🧆.mp3)                   |
+|  🌮   |           [📙](https://emojipedia.org/taco)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🌮.png) [🟢](screenshots/OS/1.1/white/🌮.png)    |         [Taco](audio/2024-07/en/🌮.mp3)         |                 [Tako](audio/2024-07/de/🌮.mp3)                 |
+|  🌯   |          [📙](https://emojipedia.org/burrito)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🌯.png) [🟢](screenshots/OS/1.1/white/🌯.png)    |       [Burrito](audio/2024-07/en/🌯.mp3)        |               [Burrito](audio/2024-07/de/🌯.mp3)                |
+|  🫔   |          [📙](https://emojipedia.org/tamale)           |    [🔴](screenshots/FireOS/7.5.6.3/white/🫔.png) [🟢](screenshots/OS/1.1/white/🫔.png)    |          [-](audio/2024-07/en/🫔.mp3)           |                  [-](audio/2024-07/de/🫔.mp3)                   |
+|  🥗   |        [📙](https://emojipedia.org/green-salad)        |    [🟢](screenshots/FireOS/7.5.6.3/white/🥗.png) [🟢](screenshots/OS/1.1/white/🥗.png)    |        [Salad](audio/2024-07/en/🥗.mp3)         |                  [-](audio/2024-07/de/🥗.mp3)                   |
+|  🥘   |    [📙](https://emojipedia.org/shallow-pan-of-food)    |    [🟢](screenshots/FireOS/7.5.6.3/white/🥘.png) [🟢](screenshots/OS/1.1/white/🥘.png)    |         [food](audio/2024-07/en/🥘.mp3)         |                  [-](audio/2024-07/de/🥘.mp3)                   |
+|  🫕   |          [📙](https://emojipedia.org/fondue)           |    [🔴](screenshots/FireOS/7.5.6.3/white/🫕.png) [🟢](screenshots/OS/1.1/white/🫕.png)    |          [-](audio/2024-07/en/🫕.mp3)           |                  [-](audio/2024-07/de/🫕.mp3)                   |
+|  🥫   |        [📙](https://emojipedia.org/canned-food)        |    [🟢](screenshots/FireOS/7.5.6.3/white/🥫.png) [🟢](screenshots/OS/1.1/white/🥫.png)    |     [canned food](audio/2024-07/en/🥫.mp3)      |                  [-](audio/2024-07/de/🥫.mp3)                   |
+|  🫙   |            [📙](https://emojipedia.org/jar)            |    [🔴](screenshots/FireOS/7.5.6.3/white/🫙.png) [🔴](screenshots/OS/1.1/white/🫙.png)    |          [-](audio/2024-07/en/🫙.mp3)           |                  [-](audio/2024-07/de/🫙.mp3)                   |
+|  🍝   |         [📙](https://emojipedia.org/spaghetti)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🍝.png) [🟢](screenshots/OS/1.1/white/🍝.png)    |      [Spaghetti](audio/2024-07/en/🍝.mp3)       |              [Spaghetti](audio/2024-07/de/🍝.mp3)               |
+|  🍜   |       [📙](https://emojipedia.org/steaming-bowl)       |    [🟢](screenshots/FireOS/7.5.6.3/white/🍜.png) [🟢](screenshots/OS/1.1/white/🍜.png)    |    [Steaming bowl](audio/2024-07/en/🍜.mp3)     |         [Dampfen der Schüssel](audio/2024-07/de/🍜.mp3)         |
+|  🍲   |        [📙](https://emojipedia.org/pot-of-food)        |    [🟢](screenshots/FireOS/7.5.6.3/white/🍲.png) [🟢](screenshots/OS/1.1/white/🍲.png)    |     [Pot of food.](audio/2024-07/en/🍲.mp3)     |            [Essen im Topf](audio/2024-07/de/🍲.mp3)             |
+|  🍛   |        [📙](https://emojipedia.org/curry-rice)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🍛.png) [🟢](screenshots/OS/1.1/white/🍛.png)    |      [Curry Rice](audio/2024-07/en/🍛.mp3)      |              [Curry Reis](audio/2024-07/de/🍛.mp3)              |
+|  🍣   |           [📙](https://emojipedia.org/sushi)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🍣.png) [🟢](screenshots/OS/1.1/white/🍣.png)    |        [Sushi](audio/2024-07/en/🍣.mp3)         |                [Sushi](audio/2024-07/de/🍣.mp3)                 |
+|  🍱   |         [📙](https://emojipedia.org/bento-box)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🍱.png) [🟢](screenshots/OS/1.1/white/🍱.png)    |      [Bento Box](audio/2024-07/en/🍱.mp3)       |                [Bento](audio/2024-07/de/🍱.mp3)                 |
+|  🥟   |         [📙](https://emojipedia.org/dumpling)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🥟.png) [🟢](screenshots/OS/1.1/white/🥟.png)    |       [Dumpling](audio/2024-07/en/🥟.mp3)       |                  [-](audio/2024-07/de/🥟.mp3)                   |
+|  🦪   |          [📙](https://emojipedia.org/oyster)           |    [🔴](screenshots/FireOS/7.5.6.3/white/🦪.png) [🟢](screenshots/OS/1.1/white/🦪.png)    |          [-](audio/2024-07/en/🦪.mp3)           |                  [-](audio/2024-07/de/🦪.mp3)                   |
+|  🍤   |       [📙](https://emojipedia.org/fried-shrimp)        |    [🟢](screenshots/FireOS/7.5.6.3/white/🍤.png) [🟢](screenshots/OS/1.1/white/🍤.png)    |     [Fried shrimp](audio/2024-07/en/🍤.mp3)     |          [Gebratener Shrimp](audio/2024-07/de/🍤.mp3)           |
+|  🍙   |         [📙](https://emojipedia.org/rice-ball)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🍙.png) [🟢](screenshots/OS/1.1/white/🍙.png)    |      [Rice ball](audio/2024-07/en/🍙.mp3)       |               [Reisball](audio/2024-07/de/🍙.mp3)               |
+|  🍚   |        [📙](https://emojipedia.org/cooked-rice)        |    [🟢](screenshots/FireOS/7.5.6.3/white/🍚.png) [🟢](screenshots/OS/1.1/white/🍚.png)    |     [Cooked rice.](audio/2024-07/en/🍚.mp3)     |            [gekochter Reis](audio/2024-07/de/🍚.mp3)            |
+|  🍘   |       [📙](https://emojipedia.org/rice-cracker)        |    [🟢](screenshots/FireOS/7.5.6.3/white/🍘.png) [🟢](screenshots/OS/1.1/white/🍘.png)    |     [Rice cracker](audio/2024-07/en/🍘.mp3)     |              [Reiswaffel](audio/2024-07/de/🍘.mp3)              |
+|  🍥   |   [📙](https://emojipedia.org/fish-cake-with-swirl)    |    [🟢](screenshots/FireOS/7.5.6.3/white/🍥.png) [🟢](screenshots/OS/1.1/white/🍥.png)    |      [Fish cake](audio/2024-07/en/🍥.mp3)       |           [Fischfrikadelle](audio/2024-07/de/🍥.mp3)            |
+|  🥠   |      [📙](https://emojipedia.org/fortune-cookie)       |    [🟢](screenshots/FireOS/7.5.6.3/white/🥠.png) [🟢](screenshots/OS/1.1/white/🥠.png)    |    [Fortune Cookie](audio/2024-07/en/🥠.mp3)    |                  [-](audio/2024-07/de/🥠.mp3)                   |
+|  🥮   |         [📙](https://emojipedia.org/moon-cake)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🥮.png) [🟢](screenshots/OS/1.1/white/🥮.png)    |       [Mooncake](audio/2024-07/en/🥮.mp3)       |                  [-](audio/2024-07/de/🥮.mp3)                   |
+|  🍢   |           [📙](https://emojipedia.org/oden)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🍢.png) [🟢](screenshots/OS/1.1/white/🍢.png)    |         [Odin](audio/2024-07/en/🍢.mp3)         |                 [Oden](audio/2024-07/de/🍢.mp3)                 |
+|  🍡   |           [📙](https://emojipedia.org/dango)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🍡.png) [🟢](screenshots/OS/1.1/white/🍡.png)    |        [Dango](audio/2024-07/en/🍡.mp3)         |               [Der NGO](audio/2024-07/de/🍡.mp3)                |
+|  🍧   |        [📙](https://emojipedia.org/shaved-ice)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🍧.png) [🟢](screenshots/OS/1.1/white/🍧.png)    |     [Shaved ice.](audio/2024-07/en/🍧.mp3)      |              [Shaved Ice](audio/2024-07/de/🍧.mp3)              |
+|  🍨   |         [📙](https://emojipedia.org/ice-cream)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🍨.png) [🟢](screenshots/OS/1.1/white/🍨.png)    |      [Ice cream](audio/2024-07/en/🍨.mp3)       |              [Speiseeis](audio/2024-07/de/🍨.mp3)               |
+|  🍦   |      [📙](https://emojipedia.org/soft-ice-cream)       |    [🟢](screenshots/FireOS/7.5.6.3/white/🍦.png) [🟢](screenshots/OS/1.1/white/🍦.png)    | [Soft Serve Ice Cream](audio/2024-07/en/🍦.mp3) |               [Soft Ice](audio/2024-07/de/🍦.mp3)               |
+|  🥧   |            [📙](https://emojipedia.org/pie)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🥧.png) [🟢](screenshots/OS/1.1/white/🥧.png)    |         [Pie](audio/2024-07/en/🥧.mp3)          |                  [-](audio/2024-07/de/🥧.mp3)                   |
+|  🧁   |          [📙](https://emojipedia.org/cupcake)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🧁.png) [🟢](screenshots/OS/1.1/white/🧁.png)    |       [Cupcake](audio/2024-07/en/🧁.mp3)        |                  [-](audio/2024-07/de/🧁.mp3)                   |
+|  🍰   |         [📙](https://emojipedia.org/shortcake)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🍰.png) [🟢](screenshots/OS/1.1/white/🍰.png)    |      [Shortcake](audio/2024-07/en/🍰.mp3)       |             [Kuchenstück](audio/2024-07/de/🍰.mp3)              |
+|  🎂   |       [📙](https://emojipedia.org/birthday-cake)       |    [🟢](screenshots/FireOS/7.5.6.3/white/🎂.png) [🟢](screenshots/OS/1.1/white/🎂.png)    |    [Birthday Cake](audio/2024-07/en/🎂.mp3)     |                 [Tata](audio/2024-07/de/🎂.mp3)                 |
+|  🍮   |          [📙](https://emojipedia.org/custard)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🍮.png) [🟢](screenshots/OS/1.1/white/🍮.png)    |       [Custard](audio/2024-07/en/🍮.mp3)        |          [Pudding-Eiercreme](audio/2024-07/de/🍮.mp3)           |
+|  🍭   |         [📙](https://emojipedia.org/lollipop)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🍭.png) [🟢](screenshots/OS/1.1/white/🍭.png)    |       [Lollipop](audio/2024-07/en/🍭.mp3)       |               [Lutscher](audio/2024-07/de/🍭.mp3)               |
+|  🍬   |           [📙](https://emojipedia.org/candy)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🍬.png) [🟢](screenshots/OS/1.1/white/🍬.png)    |        [Candy](audio/2024-07/en/🍬.mp3)         |                [Bonbon](audio/2024-07/de/🍬.mp3)                |
+|  🍫   |       [📙](https://emojipedia.org/chocolate-bar)       |    [🟢](screenshots/FireOS/7.5.6.3/white/🍫.png) [🟢](screenshots/OS/1.1/white/🍫.png)    |    [Chocolate bar](audio/2024-07/en/🍫.mp3)     |          [Schokoladenriegel](audio/2024-07/de/🍫.mp3)           |
+|  🍿   |          [📙](https://emojipedia.org/popcorn)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🍿.png) [🟢](screenshots/OS/1.1/white/🍿.png)    |       [Popcorn](audio/2024-07/en/🍿.mp3)        |               [Popcorn](audio/2024-07/de/🍿.mp3)                |
+|  🍩   |         [📙](https://emojipedia.org/doughnut)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🍩.png) [🟢](screenshots/OS/1.1/white/🍩.png)    |        [Donut](audio/2024-07/en/🍩.mp3)         |                [Donut](audio/2024-07/de/🍩.mp3)                 |
+|  🍪   |          [📙](https://emojipedia.org/cookie)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🍪.png) [🟢](screenshots/OS/1.1/white/🍪.png)    |        [Cookie](audio/2024-07/en/🍪.mp3)        |                 [Keks](audio/2024-07/de/🍪.mp3)                 |
+|  🌰   |         [📙](https://emojipedia.org/chestnut)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🌰.png) [🟢](screenshots/OS/1.1/white/🌰.png)    |       [Chestnut](audio/2024-07/en/🌰.mp3)       |               [Kastanie](audio/2024-07/de/🌰.mp3)               |
+|  🥜   |          [📙](https://emojipedia.org/peanuts)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🥜.png) [🟢](screenshots/OS/1.1/white/🥜.png)    |        [Peanut](audio/2024-07/en/🥜.mp3)        |                  [-](audio/2024-07/de/🥜.mp3)                   |
+|  🫘   |           [📙](https://emojipedia.org/beans)           |    [🔴](screenshots/FireOS/7.5.6.3/white/🫘.png) [🔴](screenshots/OS/1.1/white/🫘.png)    |          [-](audio/2024-07/en/🫘.mp3)           |                  [-](audio/2024-07/de/🫘.mp3)                   |
+|  🍯   |         [📙](https://emojipedia.org/honey-pot)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🍯.png) [🟢](screenshots/OS/1.1/white/🍯.png)    |      [Honey Pot](audio/2024-07/en/🍯.mp3)       |              [Honigtopf](audio/2024-07/de/🍯.mp3)               |
+|  🥛   |       [📙](https://emojipedia.org/glass-of-milk)       |    [🟢](screenshots/FireOS/7.5.6.3/white/🥛.png) [🟢](screenshots/OS/1.1/white/🥛.png)    |         [Milk](audio/2024-07/en/🥛.mp3)         |                  [-](audio/2024-07/de/🥛.mp3)                   |
+|  🫗   |      [📙](https://emojipedia.org/pouring-liquid)       |    [🔴](screenshots/FireOS/7.5.6.3/white/🫗.png) [🔴](screenshots/OS/1.1/white/🫗.png)    |          [-](audio/2024-07/en/🫗.mp3)           |                  [-](audio/2024-07/de/🫗.mp3)                   |
+|  🍼   |        [📙](https://emojipedia.org/baby-bottle)        |    [🟢](screenshots/FireOS/7.5.6.3/white/🍼.png) [🟢](screenshots/OS/1.1/white/🍼.png)    |     [Baby bottle](audio/2024-07/en/🍼.mp3)      |             [Babyflasche](audio/2024-07/de/🍼.mp3)              |
+|  🫖   |          [📙](https://emojipedia.org/teapot)           |    [🔴](screenshots/FireOS/7.5.6.3/white/🫖.png) [🟢](screenshots/OS/1.1/white/🫖.png)    |          [-](audio/2024-07/en/🫖.mp3)           |                  [-](audio/2024-07/de/🫖.mp3)                   |
+|  ☕️   |       [📙](https://emojipedia.org/hot-beverage)        |    [🟢](screenshots/FireOS/7.5.6.3/white/☕️.png) [🟢](screenshots/OS/1.1/white/☕️.png)    |        [Coffee](audio/2024-07/en/☕️.mp3)        |                [Kaffee](audio/2024-07/de/☕️.mp3)                |
+|  🍵   |   [📙](https://emojipedia.org/teacup-without-handle)   |    [🟢](screenshots/FireOS/7.5.6.3/white/🍵.png) [🟢](screenshots/OS/1.1/white/🍵.png)    |         [Tea](audio/2024-07/en/🍵.mp3)          |                  [T.](audio/2024-07/de/🍵.mp3)                  |
+|  🧃   |       [📙](https://emojipedia.org/beverage-box)        |    [🔴](screenshots/FireOS/7.5.6.3/white/🧃.png) [🟢](screenshots/OS/1.1/white/🧃.png)    |          [-](audio/2024-07/en/🧃.mp3)           |                  [-](audio/2024-07/de/🧃.mp3)                   |
+|  🥤   |      [📙](https://emojipedia.org/cup-with-straw)       |    [🟢](screenshots/FireOS/7.5.6.3/white/🥤.png) [🟢](screenshots/OS/1.1/white/🥤.png)    |         [Cup](audio/2024-07/en/🥤.mp3)          |                  [-](audio/2024-07/de/🥤.mp3)                   |
+|  🧋   |        [📙](https://emojipedia.org/bubble-tea)         |    [🔴](screenshots/FireOS/7.5.6.3/white/🧋.png) [🟢](screenshots/OS/1.1/white/🧋.png)    |          [-](audio/2024-07/en/🧋.mp3)           |                  [-](audio/2024-07/de/🧋.mp3)                   |
+|  🍶   |           [📙](https://emojipedia.org/sake)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🍶.png) [🟢](screenshots/OS/1.1/white/🍶.png)    |        [sake.](audio/2024-07/en/🍶.mp3)         |                 [Sake](audio/2024-07/de/🍶.mp3)                 |
+|  🍺   |         [📙](https://emojipedia.org/beer-mug)          |    [🟢](screenshots/FireOS/7.5.6.3/white/🍺.png) [🟢](screenshots/OS/1.1/white/🍺.png)    |         [Beer](audio/2024-07/en/🍺.mp3)         |                 [Bier](audio/2024-07/de/🍺.mp3)                 |
+|  🍻   |    [📙](https://emojipedia.org/clinking-beer-mugs)     |    [🟢](screenshots/FireOS/7.5.6.3/white/🍻.png) [🟢](screenshots/OS/1.1/white/🍻.png)    |  [Clinking beer mugs](audio/2024-07/en/🍻.mp3)  | [Bierkrüge mit denen angestoßen wird.](audio/2024-07/de/🍻.mp3) |
+|  🥂   |     [📙](https://emojipedia.org/clinking-glasses)      |    [🟢](screenshots/FireOS/7.5.6.3/white/🥂.png) [🟢](screenshots/OS/1.1/white/🥂.png)    |   [Clinking glasses](audio/2024-07/en/🥂.mp3)   |                  [-](audio/2024-07/de/🥂.mp3)                   |
+|  🍷   |        [📙](https://emojipedia.org/wine-glass)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🍷.png) [🟢](screenshots/OS/1.1/white/🍷.png)    |      [Wine glass](audio/2024-07/en/🍷.mp3)      |               [Weinglas](audio/2024-07/de/🍷.mp3)               |
+|  🥃   |       [📙](https://emojipedia.org/tumbler-glass)       |    [🟢](screenshots/FireOS/7.5.6.3/white/🥃.png) [🟢](screenshots/OS/1.1/white/🥃.png)    |     [Tumblr Glass](audio/2024-07/en/🥃.mp3)     |                  [-](audio/2024-07/de/🥃.mp3)                   |
+|  🍸   |      [📙](https://emojipedia.org/cocktail-glass)       |    [🟢](screenshots/FireOS/7.5.6.3/white/🍸.png) [🟢](screenshots/OS/1.1/white/🍸.png)    |    [Cocktail glass](audio/2024-07/en/🍸.mp3)    |             [Cocktailglas](audio/2024-07/de/🍸.mp3)             |
+|  🍹   |      [📙](https://emojipedia.org/tropical-drink)       |    [🟢](screenshots/FireOS/7.5.6.3/white/🍹.png) [🟢](screenshots/OS/1.1/white/🍹.png)    |    [Tropical Drink](audio/2024-07/en/🍹.mp3)    |               [Cocktail](audio/2024-07/de/🍹.mp3)               |
+|  🧉   |           [📙](https://emojipedia.org/mate)            |    [🔴](screenshots/FireOS/7.5.6.3/white/🧉.png) [🟢](screenshots/OS/1.1/white/🧉.png)    |          [-](audio/2024-07/en/🧉.mp3)           |                  [-](audio/2024-07/de/🧉.mp3)                   |
+|  🍾   | [📙](https://emojipedia.org/bottle-with-popping-cork)  |    [🟢](screenshots/FireOS/7.5.6.3/white/🍾.png) [🟢](screenshots/OS/1.1/white/🍾.png)    |   [Champagne bottle](audio/2024-07/en/🍾.mp3)   |          [Champagnerflasche](audio/2024-07/de/🍾.mp3)           |
+|  🧊   |            [📙](https://emojipedia.org/ice)            |    [🔴](screenshots/FireOS/7.5.6.3/white/🧊.png) [🟢](screenshots/OS/1.1/white/🧊.png)    |          [-](audio/2024-07/en/🧊.mp3)           |                  [-](audio/2024-07/de/🧊.mp3)                   |
+|  🥄   |           [📙](https://emojipedia.org/spoon)           |    [🟢](screenshots/FireOS/7.5.6.3/white/🥄.png) [🟢](screenshots/OS/1.1/white/🥄.png)    |        [Spoon](audio/2024-07/en/🥄.mp3)         |                  [-](audio/2024-07/de/🥄.mp3)                   |
+|  🍴   |      [📙](https://emojipedia.org/fork-and-knife)       |    [🟢](screenshots/FireOS/7.5.6.3/white/🍴.png) [🟢](screenshots/OS/1.1/white/🍴.png)    |    [Fork and knife](audio/2024-07/en/🍴.mp3)    |           [Gabel und Messer](audio/2024-07/de/🍴.mp3)           |
+|  🍽️  | [📙](https://emojipedia.org/fork-and-knife-with-plate) |   [🟢](screenshots/FireOS/7.5.6.3/white/🍽️.png) [🟢](screenshots/OS/1.1/white/🍽️.png)   |       [Dinner](audio/2024-07/en/🍽️.mp3)        |             [Abendessen](audio/2024-07/de/🍽️.mp3)              |
+|  🥣   |      [📙](https://emojipedia.org/bowl-with-spoon)      |    [🟢](screenshots/FireOS/7.5.6.3/white/🥣.png) [🟢](screenshots/OS/1.1/white/🥣.png)    |   [Bowl with spoon](audio/2024-07/en/🥣.mp3)    |                  [-](audio/2024-07/de/🥣.mp3)                   |
+|  🥡   |        [📙](https://emojipedia.org/takeout-box)        |    [🟢](screenshots/FireOS/7.5.6.3/white/🥡.png) [🟢](screenshots/OS/1.1/white/🥡.png)    |     [Takeout box.](audio/2024-07/en/🥡.mp3)     |                  [-](audio/2024-07/de/🥡.mp3)                   |
+|  🥢   |        [📙](https://emojipedia.org/chopsticks)         |    [🟢](screenshots/FireOS/7.5.6.3/white/🥢.png) [🟢](screenshots/OS/1.1/white/🥢.png)    |      [chopsticks](audio/2024-07/en/🥢.mp3)      |                  [-](audio/2024-07/de/🥢.mp3)                   |
+|  🧂   |           [📙](https://emojipedia.org/salt)            |    [🟢](screenshots/FireOS/7.5.6.3/white/🧂.png) [🟢](screenshots/OS/1.1/white/🧂.png)    |        [Salt.](audio/2024-07/en/🧂.mp3)         |                  [-](audio/2024-07/de/🧂.mp3)                   |
 
 
-Last Update 13 Nov 2020 based on [Emoji Version 13.0](https://emojipedia.org/emoji-13.0/)
+Last Update July 2024 based on [Emoji Version 15.1](https://emojipedia.org/emoji-15.1)
