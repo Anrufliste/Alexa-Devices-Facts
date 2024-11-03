@@ -21,6 +21,14 @@ besides the visual support I also included Audio support, how Alexa is "speaking
 
 Last Update July 2024 based on [Emoji Version 15.1](https://emojipedia.org/emoji-15.1)
 
+#### Legend
+* 🟢 Full support
+* 🟡 Particular support (no [combined Emoji](https://emojipedia.org/emoji-zwj-sequence), but the parts are displayed)
+* 🔴 Unsupported (just a rectangle - for [combined Emoji](https://emojipedia.org/emoji-zwj-sequence) at least one part is not supported)
+
+1st 🚦 is FireOS (eg. Echo Show 5 second generation) & 2nd 🚦 is OS (eg. Echo Show 15)
+
+
 ## Project Documentation
 
 ### Screen-Capturing
